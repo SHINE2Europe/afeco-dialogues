@@ -1,0 +1,196 @@
+title: Tips
+tags: 
+speaker: Alfi
+colorID: 0
+position: -168,-279
+---
+Did you know that in some countries, tenants are allowed to make energy-saving modifications without landlord permission, as long as the changes are reversible and do not cause damage to the property.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 363,-286
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 100,-284
+---
+Always check local regulations or consult your landlord beforehand to avoid complications!
+
+[[Anything else?|NoMore]]
+[[Take me to the Quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 89,-16
+---
+I'm afraid that's all the extra information I have for now. Well, it seems you are ready for the next course!
+
+[[Goodbye.|End]]
+===
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -477,-277
+---
+When you are finished with the material of this module, I have some additional tips for you, or we could go test your knowledge with a short quiz?
+
+[[Show me tips.|Tips]]
+[[Start the quiz.|Quiz]]
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: -173,-548
+---
+Okay, I have three questions for you to test your knowledge of this module. Ready, set, go!
+
+[[Q1]]
+===
+title: Q1
+tags: 
+speaker: Alfi
+colorID: 0
+position: 150,-684
+---
+<<set $Q1Correct = 0>>
+Question 1: How can you make your bathroom more safe?
+
+[[A) Emergency access|Q1Wrong]]
+[[B) Grab bars|Q1Wrong]]
+[[C) Non-slip flooring|Q1Wrong]]
+[[D) All of the above|Q1Correct]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 422,-813
+---
+Ai, that was a trick-question! The correct answer was: <b>D) all of the above</b>. Let's quickly go to the next question.
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 419,-563
+---
+That's right! You didn't fall for our trick question, well done! Let's see how you do on the next question...
+
+<<set $Q1Correct = $Q1Correct + 1 >>
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 701,-678
+---
+Second question: What is a Plug-in PV system mainly used for?
+
+[[A) Generate electricity from sun|Q2Correct]]
+[[B) Store water for gardening|Q2Wrong]]
+[[C) Heat a house during winter|Q2Wrong]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 976,-814
+---
+No, unfortunately that's not correct. The right answer was <b>A) Generate electricity from sun</b>. Let's forget about that and move to the last question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 973,-559
+---
+Great! That is correct. 
+
+<<set $Q1Correct = $Q1Correct + 1>>
+
+<<if $Q1Correct == 2>>
+<br/>Two down, one to go for a perfect score!
+<<elseif $Q1Correct == 1>>
+<br/>Back on track with 1 correct, 1 wrong.
+<<else>>
+<br/>I think I lost count of your score.
+<<endif>>
+
+Let's move to the final question.
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1284,-687
+---
+Final question: How can you make the entrance of a house more accessible?
+
+[[A) Install bright lights around the entrance|Q3Wrong]]
+[[B) Place a large mat to cover the floor|Q3Wrong]]
+[[C) Add a ramp for wheelchairs or strollers|Q3Correct]]
+[[D) All the above|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1553,-813
+---
+That's not correct. The right answer was <b>C) Add a ramp for wheelchairs or strollers</b>. Anyway, time to look at your final score...
+
+[[Evaluation]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1546,-544
+---
+That's correct, great! Time to look at your final score.
+
+<<set $Q1Correct = $Q1Correct + 1>>
+
+[[Evaluation]]
+===
+title: Evaluation
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1841,-673
+---
+<<if $Q1Correct == 3>>
+Perfect score, 3 out of 3, congratulations! Looks like you've mastered this module!
+<<elseif $Q1Correct == 2>>
+You've got 2 out of the 3 questions correct, well done!
+<<elseif $Q1Correct == 1>>
+One question correct, but two mistakes. Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Show me the tips.|Tips]]
+[[Goodbye.|End]]
+===

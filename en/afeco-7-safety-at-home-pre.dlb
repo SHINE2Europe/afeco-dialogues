@@ -1,0 +1,74 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 314,-303
+---
+Hi there! Welcome to the learning module <b>Safety at Home</b>.
+
+[[How do I begin?|HowToBegin]]
+[[How can I close the conversation?|HowToClose]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 312,-14
+---
+
+===
+title: HowToBegin
+tags: 
+speaker: Alfi
+colorID: 0
+position: 598,-575
+---
+Just press on the green button labeled "Start Course" to begin your learning journey.
+
+[[HowToBegin2]]
+===
+title: HowToBegin2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 862,-576
+---
+This will open a new "tab" or window in your web browser (like Mozilla Firefox, Google Chrome, or Microsoft Edge).
+
+[[HowToBegin3]]
+===
+title: HowToBegin3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1122,-574
+---
+After you're done learning, you can simply close the window to return here.
+
+[[Okay, thanks.|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: AnythingElse
+tags: 
+speaker: Alfi
+colorID: 0
+position: 859,-294
+---
+Can I help you with anything else?
+
+[[How can I close the conversation?|HowToClose]]
+[[How do I begin the course again?|HowToBegin]]
+[[Goodbye.|End]]
+===
+title: HowToClose
+tags: 
+speaker: Alfi
+colorID: 0
+position: 862,-14
+---
+To stop the conversation, you can always select "Goodbye", use the "X" at the top right corner of this text balloon, or click on me to stop the conversation.
+
+[[Okay, thanks.|AnythingElse]]
+[[Goodbye.|End]]
+===

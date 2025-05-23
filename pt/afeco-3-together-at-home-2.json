@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?": "Sabia que até mesmo usar a tecnologia para algumas tarefas simples, como fazer chamadas ou enviar mensagens, pode manter a sua mente ativa e tornar mais fácil manter-se ligado/a?",
+        "It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?": "Parece que terminou este módulo. Está pronto/a para um pequeno questionário para testar os seus conhecimentos?",
+        "Okay, here we go! First question: what is the benefit of regular communication?": "Ok, vamos lá! Primeira pergunta: qual é o benefício da comunicação regular?",
+        "Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...": "Infelizmente, essa não está correta. A resposta certa era: <b>A) Sentir-se menos sozinho/a</b>. Vamos para a segunda pergunta…",
+        "Indeed, that's correct! One to the second question...": "De fato, está correto! Vamos para a segunda pergunta…",
+        "Okay, second question: \"You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?": "Ok, segunda pergunta: \"Pode-se manter envolvido/a na comunidade a partir de casa, juntando-se a uma newsletter. Esta afirmação é...?\"",
+        "It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...": "Na verdade, é verdadeira! Às vezes, pode ser assim tão simples manter-se envolvido! Mas vamos para a última pergunta…",
+        "Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...": "De fato, é verdade! Às vezes pode ser assim tão simples manter-se envolvido/a! Hora da última pergunta…",
+        "Final question: how can community volunteers assist you?": "Pergunta final: como podem voluntários/a da sua comunidade ajudar?",
+        "Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...": "Infelizmente, isso não está correto. A resposta certa era: <b>B) Visitando-o/a regularmente para uma conversa</b>. Mas não faz mal, vamos ver a sua pontuação final…",
+        "Yes correct! Nice! Let's have a look at your final score, shall we?": "Sim, isso mesmo! Muito bom! Vamos ver o seu resultado final, vamos?",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Pontuação perfeita, 3 em 3, muito bem! Certamente dominou este módulo!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Acertou 2 das 3 perguntas, muito bom!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Só acertou uma... Talvez devesse rever algum do material?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Não acertou nenhuma das perguntas. Talvez devesse rever algum do material?",
+        "It looks like you are ready for the next module, well done!": "Parece que está pronto/a para o próximo módulo, parabéns!"
+    },
+    "_user": {
+        "Take the quiz.": "Faça o questionário.",
+        "Goodbye.": "Adeus.",
+        "A) Feeling less alone": "A) Sentir-se menos sozinho/a",
+        "B) Saving money": "B) Economizar dinheiro",
+        "C) Improving diet": "C) Melhorar a dieta",
+        "A) True": "A) Verdadeira",
+        "B) False": "B) Falsa",
+        "A) By providing you a financial help": "A) Oferecendo ajuda financeira",
+        "B) By visiting you regularly for a chat": "B) Visitando-o/a regularmente para uma conversa",
+        "C) By teaching you complex technology": "C) Ensinando-lhe tecnologia complexa",
+        "Redo the quiz.": "Refazer o questionário."
+    }
+}

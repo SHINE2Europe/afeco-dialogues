@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Are you finished with this lesson? If so, I have a short quiz for you to test your knowledge. Are you ready?": "Τελειώσατε με αυτό το μάθημα; Αν ναι, σας έχω ένα σύντομο κουίζ για να δοκιμάσετε τις γνώσεις σας. Είστε έτοιμοι;",
+        "Okay, here we go. First question. A welcoming community is characterised by good social cohesion, meaning:": "Εντάξει, πάμε. Πρώτη ερώτηση. Μια φιλόξενη κοινότητα χαρακτηρίζεται από καλή κοινωνική συνοχή, που σημαίνει:",
+        "No, that's not correct. The right answer was <b>B) Strong ties between people</b>. On to the next question!": "Όχι, δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Β) Ισχυροί δεσμοί μεταξύ ανθρώπων</b>. Πάμε στην επόμενη ερώτηση!",
+        "Very good! One question correct, two more to go. Ready for the next one?": "Πολύ καλό! Μία ερώτηση σωστή, άλλες δύο ακόμα. Έτοιμοι για το επόμενο;",
+        "Okay, second question. Intergenerational practices can contribute to:": "Εντάξει, δεύτερη ερώτηση. Οι πρακτικές μεταξύ των γενεών μπορούν να συμβάλουν στην:",
+        "No, unfortunately that's not correct. The right answer was <b>C) Fostering the exchange of knowledge between older and younger people</b>. Let's quickly move to the last question.": "Όχι, δυστυχώς δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Γ) Ενθάρρυνση της ανταλλαγής γνώσεων μεταξύ ηλικιωμένων και νεότερων ατόμων</b>. Ας περάσουμε γρήγορα στην τελευταία ερώτηση.",
+        "That's right! Time for the final question...": "Αυτό είναι σωστό! Ώρα για την τελευταία ερώτηση…",
+        "Final question. Spending time in certain areas can contribute to decreasing anxiety, stress and preserve wellbeing? Which areas?": "Τελευταία ερώτηση. Το να ξοδεύετε χρόνο σε συγκεκριμένους τομείς μπορεί να συμβάλει στη μείωση του άγχους, του στρες και στη διατήρηση της ευημερίας σας; Σε ποιούς τομείς;",
+        "Ai! Unfortunately that was not correct. The right answer was <b>C) Green</b>. No matter, let's have a look at your final score.": "Ολα συμπεριλαμβάνονται! Δυστυχώς αυτό δεν ήταν σωστό. Η σωστή απάντηση ήταν <b>Γ) Πράσινο</b>. Δεν πειράζει, ας ρίξουμε μια ματιά στην τελική βαθμολογία σας.",
+        "Yes indeed! Excellent. Now, let's have a look at your final result...": "Ναι όντως! Εξοχος. Τώρα, ας ρίξουμε μια ματιά στο τελικό αποτέλεσμα…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "I don't have anymore more to add to this lesson. When you're finished, it's time to move to the next module!": "Δεν έχω άλλο να προσθέσω σε αυτό το μάθημα. Όταν τελειώσετε, ήρθε η ώρα να μεταβείτε στην επόμενη ενότητα!"
+    },
+    "_user": {
+        "Take the quiz.": "Κάντε το κουίζ.",
+        "Goodbye.": "Αντίο.",
+        "A) Large availability of social services": "Α) Μεγάλη διαθεσιμότητα κοινωνικών υπηρεσιών",
+        "B) Strong ties between people": "Β) Ισχυροί δεσμοί μεταξύ των ανθρώπων",
+        "C) People live close to eachother": "Γ) Οι άνθρωποι ζουν κοντά ο ένας στον άλλον",
+        "A) Increase stereotypes": "Α) Αύξηση των στερεοτύπων",
+        "B) Strengthen older people's isolation": "Β) Ενίσχυση της απομόνωσης των ηλικιωμένων",
+        "C) Fostering the exchange of knowledge between older and younger people": "Γ) Ενθάρρυνση της ανταλλαγής γνώσεων μεταξύ ηλικιωμένων και νεότερων ατόμων",
+        "A) Highly frequented": "Α) Πολύ συχνό",
+        "B) Well-illuminated": "Β) Καλά φωτισμένο",
+        "C) Green": "Γ) Πράσινο",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ."
+    }
+}

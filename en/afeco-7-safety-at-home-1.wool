@@ -1,0 +1,81 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -297,-271
+---
+Hello again. Did you finished the lesson? If so, I have some additional tips for you...
+
+[[I finished.|Tips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 416,-48
+---
+
+===
+title: Tips
+tags: 
+speaker: Alfi
+colorID: 0
+position: -12,-457
+---
+So, did you know that the first recorded use of a grab bar in a bathroom was invented by a doctor in the early 20th century, who noticed that his patients were often falling in the bathroom?
+
+[[Tips2]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: 8,-124
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: Tips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 247,-465
+---
+Since then, grab bars have become a common feature in age-friendly homes, helping millions of people stay safe while bathing and using the restroom.
+
+[[Anything else?|Reflect]]
+[[Goodbye.|End]]
+===
+title: Reflect
+tags: 
+speaker: Alfi
+colorID: 0
+position: 543,-462
+---
+Perhaps it's time to reflect a little. Why don't you make a list of safety and security issues you encountered in your daily life, and of those still existing...
+
+[[Ref2]]
+===
+title: Ref2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 834,-457
+---
+How did you handle them, and what are your plans to solve the remaining issues?
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 789,-121
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

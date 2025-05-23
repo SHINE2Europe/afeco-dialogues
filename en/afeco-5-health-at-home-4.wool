@@ -1,0 +1,81 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -297,-268
+---
+Hi again! Did you finish the lesson? If so, I have some additional tips for you.
+
+[[I finished.|ProTips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 279,-44
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: -12,-425
+---
+Okay, let's go! Did you know that spending just 20 minutes in nature can help reduce stress hormones, improve cognitive function, and boost your mood?
+
+[[ProTipsCont]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 263,-425
+---
+Even if you can’t go outside, simply having a few houseplants can help bring the calming effects of nature into your home, promoting better mental health.
+
+[[Anything else?|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 568,-418
+---
+Taking care of your mental health is just as important as looking after your physical health, and your home plays a big part in that!
+
+[[ProTips2Cont]]
+===
+title: ProTips2Cont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 869,-418
+---
+By making a few simple changes, you can create a space that supports your well-being and helps you feel more relaxed and content.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 725,-54
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: -6,-113
+---
+Okay, take your time. When you've finished, come talk to me again!
+
+[[Goodbye.|End]]
+===

@@ -1,0 +1,112 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -215,-280
+---
+Hello again. Did you finished the lesson? If so, I have some additional tips for you...
+
+[[I finished.|ProTips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 769,-152
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 75,-481
+---
+So, first fun fact... Did you know that the city of Eindhoven in the Netherlands launched a "Smart Lighting" initiative in Strijp-S?
+
+[[ProTips2]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: 80,-173
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 370,-482
+---
+Here LED lights come on automatically when people are detected and dim when the area is empty. This approach has reduced energy consumption significantly while enhancing safety.
+
+[[Anything else?|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 666,-488
+---
+Similarly, the city of Oslo (Norway) has rolled out adaptive street lighting, which adjusts brightness based on activity levels, helping the city reduce both energy costs and light pollution.
+
+[[ProTips4]]
+===
+title: ProTips4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 964,-487
+---
+This kind of smart lighting is gaining popularity worldwide thanks to its benefits in terms of sustainability and urban safety.
+
+[[Anything else?|ProTips5]]
+[[Goodbye.|End]]
+===
+title: ProTips5
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1237,-485
+---
+Okay, final fun fact... Did you know that the first "smart city" in the world is widely considered to be Songdo in South Korea?
+
+[[ProTips6]]
+===
+title: ProTips6
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1530,-484
+---
+It was built from the ground up with technology designed to improve the lives of residents, including eco-friendly and age-friendly solutions!
+
+[[ProTips7]]
+===
+title: ProTips7
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1798,-484
+---
+There is a video that shows this city from the Architectural Adventures channel, called <a href="https:\/\/www.youtube.com/watch?v=2X39rGB5KWE" target="_new">South Korea Built A New SMART City And It SURPRISED Everyone</a>.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1213,-135
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

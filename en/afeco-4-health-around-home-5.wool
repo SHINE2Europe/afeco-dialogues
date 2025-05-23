@@ -1,0 +1,218 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -282,-363
+---
+Are you ready to learn some more about prevention and healthly lifestyles, or do you want to take the final quiz?
+
+[[Yes, tell me more...|ProTips]]
+[[Let's do the quiz.|Quiz]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 105,-16
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 43,-365
+---
+Well, did you know that taking care of both your physical and mental health through preventive measures can help you live a longer, healthier life?
+
+[[ProTipsCont]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 285,-264
+---
+Regular check-ups, screenings, and healthy lifestyle changes can reduce your risk of disease and help you enjoy your daily life with more energy and vitality.
+
+[[Tell me more...|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 529,-359
+---
+I don't have much more to say, but I want to point out some interesting external resources...
+
+[[Resources1]]
+===
+title: Resources1
+tags: 
+speaker: Alfi
+colorID: 0
+position: 823,-355
+---
+First off, the EU Joint Research Centre has a video on <a href="https:\/\/www.youtube.com\/watch?v=kDfZ6Xkflaw" target="_new">Health Promotion and Disease Prevention</a> - check it out by clicking the link.
+
+[[More resources?|Resources2]]
+[[Goodbye.|End]]
+===
+title: Resources2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1114,-355
+---
+Second, the World Health Organisation has a video on <a href="https:\/\/www.youtube.com\/watch?v=XMcab1MFaLc" target="_new">A healthy diet, a healthier world</a> - check it out by clicking the link.
+
+[[More resources?|Resources3]]
+[[Goodbye.|End]]
+===
+title: Resources3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1428,-354
+---
+Finally, the European Parliament released a document titled <a href="https:\/\/www.europarl.europa.eu\/RegData\/etudes\/BRIE\/2023\/751416\/EPRS_BRI(2023)751416_EN.pdf" target="_new">Mental health in the EU</a>. 
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1270,-54
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next course!
+
+[[Goodbye.|End]]
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 32,-748
+---
+<<set $Q4Correct = 0 >>
+
+Allright, here we go. First question: what is a key feature of integrated care?
+
+[[A) Only hospital treatments|Q1Wrong]]
+[[B) Services work together|Q1Correct]]
+[[C) Excludes family members|Q1Wrong]]
+[[D) Emergency only|Q1Wrong]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 320,-890
+---
+That's not quite right I'm afraid. The correct answer was <b>B) Services work together</b>. Let's move to the next question...
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 318,-619
+---
+<<set $Q4Correct = $Q4Correct + 1 >>
+
+Yes, very good! Integrated care is about services working together! Time to move the second question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 621,-745
+---
+Complete the statement: <i>Diversity in healthcare ensures that patients' (___) are recognised and respected, leading to more personalized and effective treatment</i>.
+
+[[A) symptoms|Q2Wrong]]
+[[B) responsibilities|Q2Wrong]]
+[[C) backgrounds|Q2Correct]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 898,-884
+---
+No, that's not correct. The answer I was looking for was <b>C) backgrounds</b>. No matter, let's move to the final question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 897,-618
+---
+<<set $Q4Correct = $Q4Correct + 1 >>
+
+Yes very good! Just one more question to go...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1193,-744
+---
+Final question. What do you think of the following statement: <i>All EU citizens have the right to free healthcare services, including specialist treatments, dental care, and all medications, regardless of the country they reside in</i>.
+
+[[A) True|Q3Wrong]]
+[[B) False|Q3Correct]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1476,-886
+---
+Well, wouldn't that be nice? But unfortunately it's not correct. Not all healthcare is free. Let's look at your final score shall we?
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1478,-611
+---
+<<set $Q4Correct = $Q4Correct + 1 >>
+
+Right answer! Not all healthcare is free. Wouldn't it be nice though? Let's look at your final score shall we?
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1812,-750
+---
+<<if $Q4Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q4Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q4Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Show me the tips.|ProTips]]
+[[Goodbye.|End]]
+===

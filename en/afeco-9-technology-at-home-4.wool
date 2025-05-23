@@ -1,0 +1,62 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 41,-412
+---
+Are you ready to learn some more about reducing water use?
+
+[[Yes, tell me more...|ProTips]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 30,-153
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 332,-407
+---
+Did you know that a "tap aerator" can save up to 1,000 litres of water per month in a typical household, depending on how often the faucets are used. Over a year, this adds up to a substantial amount of water saved.
+
+[[Tell me more...|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 620,-407
+---
+Did you know that a standard showerhead uses around 10-15 litres of water per minute. A water-saving showerhead cuts this down to about 6-8 litres per minute, saving a significant amount of water with each shower.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 928,-404
+---
+Did you know that by law, toilets produced after 1994 may not use more than 6 litres per flush. How old is your toilet?
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 712,-134
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

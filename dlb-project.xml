@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dlb-project name="AFECO Dialogues" version="2025-01">
+	<description>Dialogues for Alfi on the AFECO.eu website.</description>
+	<language-map>
+		<language-set>
+			<source-language name="English" code="en" />
+			<translation-language name="Dutch" code="nl" />
+			<translation-language name="German" code="de" />
+			<translation-language name="Polish" code="pl" />
+			<translation-language name="Greek" code="el" />
+			<translation-language name="Portuguese" code="pt" />
+			<translation-language name="Italian" code="it" />
+		</language-set>
+	</language-map>
+</dlb-project>

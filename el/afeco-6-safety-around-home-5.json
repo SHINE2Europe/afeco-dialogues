@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you finished this lesson, the only thing left to do is to take the final quiz. Are you ready?": "Αν ολοκληρώσατε αυτό το μάθημα, το μόνο που έχετε να κάνετε είναι να κάνετε το τελευταίο κουίζ. Είστε έτοιμοι;",
+        "Okay, first question! Safe age friendly communities improve psychological safety. What does this mean?": "Εντάξει, πρώτη ερώτηση! Οι αφαλείς, φιλικές προς την ηλικία κοινότητες βελτιώνουν την ψυχολογική ασφάλεια. Τι σημαίνει αυτό;",
+        "No that's not the answer I was looking for. The right answer was <b>B) Feeling of comfort as part of a community</b>. Let's move to the second question...": "Όχι δεν είναι αυτή η απάντηση που έψαχνα. Η σωστή απάντηση ήταν <b>Β) Αίσθημα άνεσης ότι είστε μέρος μιας κοινότητας</b>. Πάμε στο δεύτερο ερώτημα…",
+        "Yes, correct! Well done! Let's move to the second question...": "Ναι, σωστά! Μπράβο! Πάμε στο δεύτερο ερώτημα…",
+        "Second question: When transportation is safe and easy to use, older adults can...?": "Δεύτερη ερώτηση: Όταν τα μέσα μαζικής μεταφοράς είναι ασφαλή και εύκολα στη χρήση, οι ηλικιωμένοι μπορούν...;",
+        "No, that is not correct. The right answer was <b>B) Continue to live independent and active lives</b>. Time for the third and last question...": "Όχι, αυτό δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Β) Να συνεχίαουν να ζουν ανεξάρτητη και ενεργή ζωή</b>. Ώρα για την τρίτη και τελευταία ερώτηση…",
+        "Yes, that's correct! Very nice! Now let's move to the third and last question...": "Ναι, αυτό είναι σωστό! Πολύ ωραία! Πάμε τώρα στην τρίτη και τελευταία ερώτηση…",
+        "Final question: In terms of safety, one of the things an older adult can do while using public transport is...?": "Τελευταία ερώτηση: Όσον αφορά την ασφάλεια, ένα από τα πράγματα που μπορεί να κάνει ένας ηλικιωμένος όταν χρησιμοποιεί τα μέσα μαζικής μεταφοράς είναι...;",
+        "No, no ... the right answer was <b>C) Plan the trip ahead</b>. No matter! Let's look at your final score...": "Όχι, όχι ... η σωστή απάντηση ήταν <b>Γ) Να προγραμματίζει το ταξίδι εκ των προτέρων</b>. Δεν πειράζει! Ας δούμε την τελική βαθμολογία σας…",
+        "And we can add one point! That was correct! Now let's look at your final score...": "Και μπορούμε να προσθέσουμε ένα σημείο! Αυτό ήταν σωστό! Ας δούμε τώρα την τελική βαθμολογία σας…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε σε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "I don't have anything more to add for this lesson. Time to move to the next one!": "Δεν έχω να προσθέσω τίποτα περισσότερο για αυτό το μάθημα. Ώρα να προχωρήσουμε στο επόμενο!"
+    },
+    "_user": {
+        "Take the quiz.": "Κάντε το κουίζ",
+        "Goodbye.": "Αντίο.",
+        "A) Availability of psychologists": "Α) Μεγάλη διαθεσιμότητα ψυχολόγων",
+        "B) Feeling of comfort as part of a community": "Β) Αίσθημα άνεσης ότι είστε μέρος μιας κοινότητας",
+        "C) Settling existing psychological disorders": "Γ) Τακτοποίηση υφιστάμενων ψυχολογικών διαταραχών",
+        "D) Feeling safe at common activities": "Δ) Αίσθημα ασφάλειας σε κοινές δραστηριότητες",
+        "A) Save money": "Α) Να εξοικονομήσουν χρήματα",
+        "B) Continue to live independent and active lives": "Β) Να συνεχίσουν να ζουν ανεξάρτητη και ενεργή ζωή",
+        "C) Abandon driving": "Γ) Να εγκαταλείωουν την οδήγηση",
+        "D) Be more relaxed": "Δ) Να είναι πιο χαλαροί",
+        "A) Wear anti-slip shoes": "Α) Να φοράει αντιολισθητικά παπούτσια",
+        "B) Choose the most direct route": "Β) Να επιλέγει την πιο άμεση διαδρομή",
+        "C) Plan the trip ahead": "Γ) Να προγραμματίζει το ταξίδι εκ των προτέρων",
+        "D) Always try to sit": "Δ) Να προσπαθεί πάντα να κάθεται",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ."
+    }
+}

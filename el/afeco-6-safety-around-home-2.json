@@ -1,0 +1,15 @@
+{
+    "Alfi": {
+        "So, did you finish the lesson? If so, I have some additional reflections for you.": "Λοιπόν, τελειώσατε το μάθημα; Αν ναι, έχω μερικές επιπλέον σκέψεις για εσάς.",
+        "It may be good to reflect a little on this lesson. For example, think about any community-based age-friendly practices in your region...": "Ίσως είναι καλό να αναλογιστούμε λίγο αυτό το μάθημα. Για παράδειγμα, σκεφτείτε τυχόν πρακτικές φιλικές προς τους ηλικιωμένους που βασίζονται στην κοινότητα στην περιοχή σας...",
+        "Okay, no problem. Come back later after you finished the lesson!": "Εντάξει, κανένα πρόβλημα. Επιστρέψτε αργότερα αφού τελειώσετε το μάθημα!",
+        "Think about any propositions for improvement, or perhaps any inadequacies you consider important?": "Σκεφτείτε οποιεσδήποτε προτάσεις για βελτίωση ή ίσως τυχόν ανεπάρκειες που θεωρείτε σημαντικές;",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Αυτές είναι όλες οι επιπλέον πληροφορίες που φοβάμαι. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "I finished.": "Τελείωσα.",
+        "Not yet.": "Οχι ακόμη.",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

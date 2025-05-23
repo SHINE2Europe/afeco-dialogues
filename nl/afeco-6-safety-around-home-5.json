@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you finished this lesson, the only thing left to do is to take the final quiz. Are you ready?": "Als u klaar bent met de les, is er alleen nog de quiz te doen. Bent u er klaar voor?",
+        "Okay, first question! Safe age friendly communities improve psychological safety. What does this mean?": "Eerste vraag. Veilige leeftijdsvriendelijke gemeenschappen verbeteren de psychische veiligheid. Wat betekent dat?",
+        "No that's not the answer I was looking for. The right answer was <b>B) Feeling of comfort as part of a community</b>. Let's move to the second question...": "Nee, dat is niet het antwoord dat ik zocht. Het juiste antwoord is <b>B) Het gevoel deel uit te maken van een gemeenschap</b>. Laten we naar de volgende vraag gaan.",
+        "Yes, correct! Well done! Let's move to the second question...": "Ja, dat is juist. Goed gedaan. Naar de volgende vraag.",
+        "Second question: When transportation is safe and easy to use, older adults can...?": "Tweede vraag: Wanneer vervoer veilig is en gemakkelijk te gebruiken, kunnen ouderen....?",
+        "No, that is not correct. The right answer was <b>B) Continue to live independent and active lives</b>. Time for the third and last question...": "Nee dat is niet juist. Het goede antwoord is <b>B) Doorgaan met zelfstandig leven en actief zijn</b>. Tijd voor de derde en laatste vraag.",
+        "Yes, that's correct! Very nice! Now let's move to the third and last question...": "Ja dat is goed. Heel mooi. Nu op naar de derde en laatste vraag.",
+        "Final question: In terms of safety, one of the things an older adult can do while using public transport is...?": "Laatste vraag: Op het gebied van veiligheid is een van de dingen die een oudere kan doen tijdens het gebruik van openbaar vervoer...?",
+        "No, no ... the right answer was <b>C) Plan the trip ahead</b>. No matter! Let's look at your final score...": "Nee. Het juiste antwoord was <b>C) De reis vooruit plannen</b>. Geen probleem. Laten we kijken naar de totaalscore...",
+        "And we can add one point! That was correct! Now let's look at your final score...": "En we kunnen een punt toevoegen. Dat was goed. Laten we nu kijken naar de totaalscore.",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "I don't have anything more to add for this lesson. Time to move to the next one!": "Ik heb niets meer toe te voegen voor deze les. Tijd voor de volgende!"
+    },
+    "_user": {
+        "Take the quiz.": "Laten we de quiz doen.",
+        "Goodbye.": "Tot ziens.",
+        "A) Availability of psychologists": "A) Er is psychische hulp beschikbaar.",
+        "B) Feeling of comfort as part of a community": "B) Het gevoel deel uit te maken van een gemeenschap",
+        "C) Settling existing psychological disorders": "C) Bestaande psychische stoornissen aanpakken",
+        "D) Feeling safe at common activities": "D) Veilig voelen bij gemeenschappelijke activiteiten",
+        "A) Save money": "A) Geld besparen",
+        "B) Continue to live independent and active lives": "B) Doorgaan met zelfstandig leven en actief zijn",
+        "C) Abandon driving": "C) Ophouden met autorijden",
+        "D) Be more relaxed": "D) Meer ontspannen zijn",
+        "A) Wear anti-slip shoes": "A) Antislip schoenen dragen",
+        "B) Choose the most direct route": "B) De meest rechtstreeks route kiezen",
+        "C) Plan the trip ahead": "C) De reis vooruit plannen",
+        "D) Always try to sit": "D) Altijd een zitplaats proberen te krijgen",
+        "Redo the quiz.": "De quiz opnieuw doen."
+    }
+}

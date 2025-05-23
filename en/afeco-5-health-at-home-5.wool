@@ -1,0 +1,60 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -269,-294
+---
+Hi again! Did you finish the lesson? If so, I have some additional tips for you.
+
+[[I finished.|ProTips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 150,142
+---
+
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: 31,-136
+---
+Okay, take your time. When you've finished, come talk to me again!
+
+[[Goodbye.|End]]
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 29,-408
+---
+Did you know that eating organic food not only benefits your health but also has a significant impact on the environment?
+
+[[ProTipsCont]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 322,-407
+---
+By choosing seasonal and local produce, you’re reducing your carbon footprint and supporting sustainable farming practices. These choices also help protect our planet for future generations.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 456,-150
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

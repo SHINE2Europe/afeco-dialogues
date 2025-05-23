@@ -1,0 +1,38 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 13,-288
+---
+How many electric devices do you have in your home? And how many are on standby right now?
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 291,-8
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 291,-284
+---
+I can help you regain control of this energy leakage! Follow this lesson to find out how.
+
+[[ByTheWay]]
+===
+title: ByTheWay
+tags: 
+speaker: Alfi
+colorID: 0
+position: 564,-287
+---
+By the way, if you talk to me again, I may have some additional fun facts about reducing standby energy for you. For now, happy learning!
+
+[[Goodbye.|End]]
+===

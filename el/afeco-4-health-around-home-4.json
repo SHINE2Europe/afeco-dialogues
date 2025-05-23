@@ -1,0 +1,19 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about healthcare systems and health rights?": "Είστε έτοιμοι να μάθετε περισσότερα για τα συστήματα υγειονομικής περίθαλψης και τα δικαιώματα υγείας;",
+        "Well, did you know that healthcare systems across the EU are designed to ensure that everyone has access to essential care?": "Λοιπόν, ξέρατε ότι τα συστήματα υγειονομικής περίθαλψης σε ολόκληρη την ΕΕ έχουν σχεδιαστεί για να διασφαλίζουν ότι όλοι έχουν πρόσβαση σε βασική περίθαλψη;",
+        "This is especially important for older adults who may have more frequent healthcare needs.": "Αυτό είναι ιδιαίτερα σημαντικό για ενήλικες μεγαλύτερης ηλικίας που μπορεί να έχουν συχνότερες ανάγκες υγειονομικής περίθαλψης.",
+        "Did you know that the European Health Insurance Card (EHIC) allows you to access healthcare when traveling within the EU, ensuring that you’re covered if you need medical attention abroad?": "Γνωρίζατε ότι η Ευρωπαϊκή Κάρτα Ασφάλισης Υγείας (EHIC) σας επιτρέπει να έχετε πρόσβαση στην υγειονομική περίθαλψη όταν ταξιδεύετε εντός της ΕΕ, διασφαλίζοντας ότι καλύπτεστε εάν χρειάζεστε ιατρική φροντίδα στο εξωτερικό;",
+        "It’s a valuable tool for any older adult who enjoys traveling or visiting family in other EU countries.": "Είναι ένα πολύτιμο εργαλείο για κάθε ηλικιωμένο που του αρέσει να ταξιδεύει ή να επισκέπτεται την οικογένειά του σε άλλες χώρες της ΕΕ.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμι πωςα υτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!",
+        "Did you know that in some countries, additional healthcare services like dental care or eye care may not be fully covered?": "Γνωρίζατε ότι σε ορισμένες χώρες, πρόσθετες υπηρεσίες υγειονομικής περίθαλψης, όπως η οδοντιατρική περίθαλψη ή η φροντίδα των ματιών ενδέχεται να μην καλύπτονται πλήρως;",
+        "It’s important to check with your local healthcare provider to understand what services are included and whether you may need to purchase additional coverage.": "Είναι σημαντικό να επικοινωνήσετε με τον τοπικό πάροχο υγειονομικής περίθαλψης για να καταλάβετε ποιες υπηρεσίες περιλαμβάνονται και εάν μπορεί να χρειαστεί να αγοράσετε πρόσθετη κάλυψη."
+    },
+    "_user": {
+        "Yes, tell me more...": "Ναι, πες μου περισσότερα...",
+        "Not now, thanks.": "Όχι τώρα, ευχαριστώ.",
+        "Tell me more...": "Πες μου περισσότερα...",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

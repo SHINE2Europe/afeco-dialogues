@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about managing household waste?": "Είστε έτοιμοι να μάθετε περισσότερα για τη διαχείριση των οικιακών απορριμμάτων;",
+        "Did you know that the \"Bokashi process\" is anaerobic. This means that it does not require oxygen to break down the waste.": "Γνωρίζατε ότι η «διαδικασία Bokashi» είναι αναερόβια. Αυτό σημαίνει ότι δεν χρειάζεται οξυγόνο για να διασπάσει τα απόβλητα.",
+        "This method also produces a nutrient-rich liquid (often called \"Bokashi tea\") that can be diluted and used to fertilise plants or poured down drains to help keep pipes clean.": "Αυτή η μέθοδος παράγει επίσης ένα πλούσιο σε θρεπτικά συστατικά υγρό (συχνά αποκαλούμενο \"τσάι Bokashi\") που μπορεί να αραιωθεί και να χρησιμοποιηθεί για τη λίπανση των φυτών ή να χυθεί στις αποχετεύσεις για να διατηρηθούν οι σωλήνες καθαροί.",
+        "Did you know that an electric composter does not just produce compost but it also dehydrates the waste, making it smaller and easier to handle.": "Γνωρίζατε ότι ένας ηλεκτρικός κομποστοποιητής δεν παράγει απλώς λίπασμα, αλλά αφυδατώνει επίσης τα απόβλητα, καθιστώντας τα μικρότερα και ευκολότερα στον χειρισμό.",
+        "Some electric composters even have sensors that adjust the process based on the type of waste, thus ensuring optimal composting.": "Ορισμένοι ηλεκτρικοί κομποστοποιητές διαθέτουν ακόμη και αισθητήρες που προσαρμόζουν τη διαδικασία με βάση τον τύπο των απορριμμάτων, διασφαλίζοντας έτσι τη βέλτιστη κομποστοποίηση.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμαι πως αυτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Ναι, πες μου περισσότερα...",
+        "Not now, thanks.": "Όχι τώρα, ευχαριστώ.",
+        "Tell me more...": "Πες μου περισσότερα...",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing standby energy?": "Pronto/a para aprender mais sobre como reduzir o consumo de energia em standby?",
+        "Well, did you know that \"Standby energy\" is also referred to as \"Vampire Power\", a creepy but fitting name...": "Sabia que a energia em standby também é conhecida como \"Energia Vampiro\"? Um nome assustador mas apropriado...",
+        "By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.": "Ao cortar a energia de aparelhos como máquinas de café, carregadores de telemóveis ou micro-ondas, quando estes não estão a ser utilizados, pode poupar uma quantidade surpreendente de energia ao longo do tempo.",
+        "Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!": "Sabia que as tomadas inteligentes podem ajudar a que controle os seus aparelhos e poupe energia, mesmo que se esqueça de desligar algo antes de sair de casa? Basta aceder à aplicação e desligá-los remotamente!",
+        "Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?": "Sabia que as luzes LED, além de serem mais eficientes em termos energéticos, também produzem menos calor do que as lâmpadas tradicionais?",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "É tudo a informação extra que tenho. Talvez esteja pronto/a para a próxima lição!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Sim, conte-me mais...",
+        "Not now, thanks.": "Agora não, obrigado.",
+        "Tell me more...": "Conte-me mais...",
+        "Goodbye.": "Adeus.",
+        "Anything else?": "Mais alguma coisa?"
+    }
+}

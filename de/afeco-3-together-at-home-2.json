@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?": "Wussten Sie, dass der Einsatz von Technik Chancen für den Austausch mit anderen bietet? Wenn sie mehr über den Nutzen und die Handhabung lernen möchten, finden Sie vielleicht <a href=\"https:\\/\\/www.digitalpakt-alter.de\\/wissen-vermitteln\\/unsere-erfahrungsorte\" target=\"_new\">hier</a> einen \"Erfahrungsort\".",
+        "It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?": "Es sieht so aus, als ob Sie mit diesem Modul fertig sind. Sind Sie bereit für ein kurzes Quiz, um Ihr Wissen zu testen?",
+        "Okay, here we go! First question: what is the benefit of regular communication?": "Okay, los geht's! Erste Frage: Was ist der Vorteil regelmäßigen Austausches?",
+        "Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...": "Leider ist das nicht richtig. Die richtige Antwort war <b>A) Sich weniger allein fühlen</b>. Kommen wir nun zur zweiten Frage...",
+        "Indeed, that's correct! One to the second question...": "In der Tat, das ist richtig! Zur zweiten Frage...",
+        "Okay, second question: \"You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?": "Okay, zweite Frage: \"Sie können sich von zu Hause aus in der Gemeinschaft engagieren, indem Sie Gemeinschaftsprojekte unterstützen oder sich mit lokalen Newslettern auf dem Laufenden halten. Diese Aussage ist...?",
+        "It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...": "Das ist tatsächlich wahr! Manchmal kann es so einfach sein, sich einzubringen und zugehörig zu fühlen! Aber egal, kommen wir zur letzten Frage...",
+        "Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...": "Das ist es in der Tat! Manchmal kann es so einfach sein, sich einzubringen! Zeit für die letzte Frage...",
+        "Final question: how can community volunteers assist you?": "Letzte Frage: Wie können Freiwillige aus der Gemeinschaft Sie unterstützen?",
+        "Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...": "Leider ist das nicht richtig. Die richtige Antwort war <b>B) Indem regelmäßig für Gespräche zu Besuch kommen</b>. Wie auch immer, werfen wir einen Blick auf Ihr Endergebnis...",
+        "Yes correct! Nice! Let's have a look at your final score, shall we?": "Ja, richtig! Super! Werfen wir einen Blick auf Ihr Endergebnis, ja?",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfekte Punktzahl, 3 von 3, gut gemacht! Sie haben dieses Modul sicher gemeistert!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Sie haben 2 der 3 Fragen richtig beantwortet, sehr schön!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Nur eine Frage richtig... Vielleicht möchten Sie einige der Inhalte noch einmal durchgehen?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Sie haben keine der Fragen richtig beantwortet. Vielleicht möchten Sie einige der Inhalte noch einmal durchgehen?",
+        "It looks like you are ready for the next module, well done!": "Es sieht so aus, als wären Sie bereit für das nächste Modul, gut gemacht!"
+    },
+    "_user": {
+        "Take the quiz.": "Ich mache das Quiz.",
+        "Goodbye.": "Auf Wiedersehen.",
+        "A) Feeling less alone": "A) Sich weniger allein fühlen",
+        "B) Saving money": "B) Geld sparen",
+        "C) Improving diet": "C) Verbesserung der Ernährung",
+        "A) True": "A) Wahr",
+        "B) False": "B) Falsch",
+        "A) By providing you a financial help": "A) Indem sie finanzielle Hilfe anbieten",
+        "B) By visiting you regularly for a chat": "B) Indem regelmäßig für Gespräche zu Besuch kommen",
+        "C) By teaching you complex technology": "C) Indem sie mir beibringen, wie komplexe Technik funktioniert",
+        "Redo the quiz.": "Das Quiz wiederholen."
+    }
+}

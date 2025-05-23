@@ -1,0 +1,19 @@
+{
+    "Alfi": {
+        "Hi there! Welcome to the learning module <b>Safety Around the Home</b>.": "Olá! Boas vindas ao módulo de aprendizagem <b>Segurança na Comunidade</b>.",
+        "Just press on the green button labeled \"Start Course\" to begin your learning journey.": "Basta pressionar o botão verde com o rótulo \"Iniciar Curso\" para começar a sua jornada de aprendizagem.",
+        "This will open a new \"tab\" or window in your web browser (like Mozilla Firefox, Google Chrome, or Microsoft Edge).": "Isto abrirá uma nova \"aba\" ou janela no seu navegador de internet (como o Mozilla Firefox, Google Chrome ou Microsoft Edge).",
+        "After you're done learning, you can simply close the window to return here.": "Depois de terminar a aprendizagem, pode simplesmente fechar a janela para voltar aqui.",
+        "Can I help you with anything else?": "Posso ajudar em algo mais?",
+        "To stop the conversation, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Para encerrar a conversa, pode sempre selecionar \"Adeus\", usar o \"X\" no canto superior direito desta mensagem ou clicar em mim para terminar a conversa.",
+        "Well, that's a bit rude... but, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Bem, isso é um pouco rude... mas pode sempre selecionar \"Adeus\", usar o \"X\" no canto superior direito desta caixa de texto ou clicar em mim para terminar a conversa."
+    },
+    "_user": {
+        "How do I begin?": "Como posso começar?",
+        "How can I get rid of you?": "Como posso livrar-me de ti?",
+        "Goodbye.": "Adeus.",
+        "Okay, thanks.": "Está bem, obrigado.",
+        "How can I close the conversation?": "Como posso encerrar a conversa?",
+        "How do I begin the course again?": "Como posso iniciar o curso novamente?"
+    }
+}

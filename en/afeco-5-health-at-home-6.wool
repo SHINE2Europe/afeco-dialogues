@@ -1,0 +1,141 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -131,-288
+---
+All that is left is to take the final quiz for this module, are you ready?
+
+[[Let's do the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 180,84
+---
+
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 158,-289
+---
+<<set $Q5Correct = 0 >>
+
+Ok, first question: which of the following types of cookware is best avoided to reduce exposure to toxins?
+
+[[A) Cast-iron pots|Q1Wrong]]
+[[B) Stainless steel pans|Q1Wrong]]
+[[C) Non-stick pans|Q1Correct]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 454,-458
+---
+No unfortunately that's not correct. The right answer was <b>C) Non-stick pans</b>. Let's move to the second question...
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 454,-176
+---
+<<set $Q5Correct = $Q5Correct + 1 >>
+
+Yes indeed, non-stick pans are best avoided! Time to move to the next question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 768,-299
+---
+Second question. Is the following statement true, or false: <i>plants such as spider plants, peace lilies, and aloe vera can help remove toxins from the air</i>.
+
+[[A) True|Q2Correct]]
+[[B) False|Q2Wrong]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1069,-461
+---
+No, actually it was true - these plants <i>can</i> reduce toxins from the air! No matter, let's move to the final question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1067,-178
+---
+<<set $Q5Correct = $Q5Correct + 1 >>
+
+Yes, these plants <i>can indeed</i> remove toxins from the air! Great! Now, time for the final question...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1403,-316
+---
+Allright, final question: which of the following measures is best to take to reduce the risk of falls?
+
+[[A) Remove carpets|Q3Correct]]
+[[B) Use slippers|Q3Wrong]]
+[[C) Place more carpets|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1724,-462
+---
+No, no, that was not the answer I was looking for. The correct answer was <b>A) Remove carpets</b>. Time to look at you final score...
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1731,-184
+---
+<<set $Q5Correct = $Q5Correct + 1 >>
+
+Yes indeed, well done! Now it's time to look at your final score...
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2055,-339
+---
+<<if $Q5Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q5Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q5Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Goodbye.|End]]
+===

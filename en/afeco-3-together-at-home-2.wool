@@ -1,0 +1,151 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -25,-288
+---
+Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 501,11
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 248,-286
+---
+It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?
+
+[[Take the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 546,-288
+---
+<<set $Q3Correct = 0 >>
+
+Okay, here we go! First question: what is the benefit of regular communication?
+
+[[A) Feeling less alone|Q1Correct]]
+[[B) Saving money|Q1Wrong]]
+[[C) Improving diet|Q1Wrong]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 821,-419
+---
+Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 824,-160
+---
+<<set $Q3Correct = $Q3Correct + 1 >>
+
+Indeed, that's correct! One to the second question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1113,-275
+---
+Okay, second question: "You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?
+
+[[A) True|Q2Correct]]
+[[B) False|Q2Wrong]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1398,-428
+---
+It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1407,-160
+---
+<<set $Q3Correct = $Q3Correct + 1 >>
+
+Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1719,-274
+---
+Final question: how can community volunteers assist you?
+
+[[A) By providing you a financial help|Q3Wrong]]
+[[B) By visiting you regularly for a chat|Q3Correct]]
+[[C) By teaching you complex technology|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2010,-433
+---
+Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2015,-141
+---
+<<set $Q3Correct = $Q3Correct + 1 >>
+
+Yes correct! Nice! Let's have a look at your final score, shall we?
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2330,-298
+---
+<<if $Q3Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q3Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q3Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Goodbye.|End]]
+===

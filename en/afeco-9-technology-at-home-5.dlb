@@ -1,0 +1,71 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 83,-457
+---
+Are you ready to learn some more about managing household waste?
+
+[[Yes, tell me more...|ProTips]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 86,-172
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 373,-455
+---
+Did you know that the "Bokashi process" is anaerobic. This means that it does not require oxygen to break down the waste.
+
+[[ProTips2]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 669,-456
+---
+This method also produces a nutrient-rich liquid (often called "Bokashi tea") that can be diluted and used to fertilise plants or poured down drains to help keep pipes clean.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 941,-457
+---
+Did you know that an electric composter does not just produce compost but it also dehydrates the waste, making it smaller and easier to handle.
+
+[[ProTips4]]
+===
+title: ProTips4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1239,-459
+---
+Some electric composters even have sensors that adjust the process based on the type of waste, thus ensuring optimal composting.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1049,-176
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

@@ -1,0 +1,20 @@
+{
+    "Alfi": {
+        "Hello again. Did you finished the lesson? If so, I have some additional tips for you...": "Hallo nochmal! Haben Sie die Lektion beendet? Wenn ja, habe ich noch einige Tipps für Sie.",
+        "So, first fun fact... Did you know that the city of Eindhoven in the Netherlands launched a \"Smart Lighting\" initiative in Strijp-S?": "Wussten Sie, dass die Stadt Eindhoven in den Niederlanden eine \"Smart Lighting\"-Initiative in Strijp-S gestartet hat? ",
+        "Okay, no problem. Come back later after you finished the lesson!": "Okay, kein Problem. Kommen Sie später wieder, wenn Sie die Lektion beendet haben!",
+        "Here LED lights come on automatically when people are detected and dim when the area is empty. This approach has reduced energy consumption significantly while enhancing safety.": "Hier werden LED-Leuchten automatisch eingeschaltet, wenn Personen erkannt werden, und ausgeschaltet, wenn der sich keine Personen in dem Bereich aufhalten. Dadurch konnte der Energieverbrauch erheblich gesenkt und gleichzeitig die Sicherheit erhöht werden.",
+        "Similarly, the city of Oslo (Norway) has rolled out adaptive street lighting, which adjusts brightness based on activity levels, helping the city reduce both energy costs and light pollution.": "In ähnlicher Weise hat Oslo (Norwegen) eine adaptive Straßenbeleuchtung eingeführt, die die Helligkeit an das Aktivitätsniveau anpasst und der Stadt hilft, sowohl die Energiekosten als auch die Lichtverschmutzung zu reduzieren.",
+        "This kind of smart lighting is gaining popularity worldwide thanks to its benefits in terms of sustainability and urban safety.": "Diese Art der smarten Beleuchtung erfreut sich weltweit zunehmender Beliebtheit, da sie zu mehr Nachhaltigkeit und Sicherheit in den Städten beiträgt.",
+        "Okay, final fun fact... Did you know that the first \"smart city\" in the world is widely considered to be Songdo in South Korea?": "Wussten Sie, dass Songdo in Südkorea als die erste „smarte Stadt“ der Welt gilt?",
+        "It was built from the ground up with technology designed to improve the lives of residents, including eco-friendly and age-friendly solutions!": "Sie wurde aus dem Nichts innerhalb weniger Jahre komplett aufgebaut und ist voll von Technologien, die das Leben ihrer Bewohner verbessern sollen, einschließlich umweltfreundlicher und altersgerechter Lösungen.",
+        "There is a video that shows this city from the Architectural Adventures channel, called <a href=\"https:\\/\\/www.youtube.com/watch?v=2X39rGB5KWE\" target=\"_new\">South Korea Built A New SMART City And It SURPRISED Everyone</a>.": "Mehr über Songdo können Sie in folgendem <a href=\"https:\\/\\/www.spiegel.de\\/politik\\/ausland\\/suedkorea-smart-city-songdo-gruen-und-allwissend-a-1287678.html\" target=\"_new\">Artikel des Spiegel</a> nachlesen.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Das ist leider alles, was ich an zusätzlichen Informationen habe. Vielleicht sind Sie bereit für die nächste Lektion!"
+    },
+    "_user": {
+        "I finished.": "Ich bin fertig.",
+        "Not yet.": "Noch nicht.",
+        "Goodbye.": "Auf Wiedersehen.",
+        "Anything else?": "Sonst noch etwas?"
+    }
+}

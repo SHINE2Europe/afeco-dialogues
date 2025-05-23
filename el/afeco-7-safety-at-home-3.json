@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you've finished this lesson, all that remains is to take the final quiz. Are you ready?": "Εάν έχετε τελειώσει αυτό το μάθημα, το μόνο που μένει είναι να κάνετε το τελευταίο κουίζ. Είστε έτοιμοι;",
+        "Okay, first question: An age-friendly home is designed to adapt to...?": "Εντάξει, πρώτη ερώτηση: Ένα σπίτι φιλικό προς την ηλικία έχει σχεδιαστεί για να προσαρμόζεται;",
+        "Yes, that's correct! Well done! Let's go to the second question...": "Ναι, αυτό είναι σωστό! Μπράβο! Πάμε στο δεύτερο ερώτημα…",
+        "No, that's not correct. The right answer was <b>A) a person's changing needs</b>. Let's move to the second question...": "Όχι, δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Α) στις μεταβαλλόμενες ανάγκες ενός ατόμου</b>. Πάμε στο δεύτερο ερώτημα…",
+        "Allright, second question. A grab bar is mostly useful in the ...?": "Εντάξει, δεύτερη ερώτηση. Μια μπάρα κρατήματος είναι κυρίως χρήσιμη;",
+        "No, that's not the answer I was looking for. The right answer was <b>D) bathroom</b>. Let's move to the third and final question...": "Όχι, δεν είναι αυτή η απάντηση που έψαχνα. Η σωστή απάντηση ήταν <b>Δ) στο μπάνιο</b>. Πάμε στην τρίτη και τελευταία ερώτηση…",
+        "Yes, that's right! One more question left...": "Ναι, έτσι είναι! Άλλη μια ερώτηση έμεινε…",
+        "Final question for today... One of the leading causes of injury among older people is ...?": "Τελευταία ερώτηση για σήμερα... Μία από τις κύριες αιτίες τραυματισμών στους ηλικιωμένους είναι ...;",
+        "No that is not the right answer. I was looking for option <b>C) falling</b>. No matter, let's have a look at your final score...": "Όχι, αυτή δεν είναι η σωστή απάντηση. Έψαχνα για την επιλογή <b>Γ) οι πτώσεις</b>. Δεν πειράζει, ας ρίξουμε μια ματιά στην τελική βαθμολογία σας…",
+        "Yes, you are absolutely right! Now, let's have a look at your final score...": "Ναι, έχετε απόλυτο δίκιο! Τώρα, ας ρίξουμε μια ματιά στην τελική βαθμολογία σας…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε σε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "I don't have anything more to add for this lesson.": "Δεν έχω να προσθέσω τίποτα περισσότερο για αυτό το μάθημα. "
+    },
+    "_user": {
+        "Take the quiz.": "Κάντε το κουίζ",
+        "Goodbye.": "Αντίο.",
+        "A) a person’s changing needs": "Α) στις μεταβαλλόμενες ανάγκες ενός ατόμου",
+        "B) the change of the seasons": "Β) στην αλλαγή των εποχών",
+        "C) the prevention of falls": "Γ) στην πρόληψη πτώσεων",
+        "D) the needs of the caregiver": "Δ) στις ανάγκες του φροντιστή",
+        "A) kitchen": "Α) στην κουζίνα",
+        "B) living room": "Β) στο σαλόνι",
+        "C) hallway": "Γ) στο διάδρομο",
+        "D) bathroom": "Δ) στο μπάνιο",
+        "A) poor vision": "Α) η κακή όραση",
+        "B) accidents in the kitchen": "Β) τα ατυχήματα στην κουζίνα",
+        "C) falling": "Γ) οι πτώσεις",
+        "D) working accidents": "Δ) τα εργατικά ατυχήματα",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ."
+    }
+}

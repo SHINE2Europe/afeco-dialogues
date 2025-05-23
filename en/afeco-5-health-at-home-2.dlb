@@ -1,0 +1,59 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -212,-284
+---
+Hey there! If you finished this lesson, I have some additional tips for you.
+
+[[I finished.|ProTips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 591,-194
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 137,-528
+---
+Great! So, did you know that many common household cleaners contain chemicals that can linger in the air long after you’ve used them, potentially causing respiratory issues and other health problems?
+
+[[ProTipsCont]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: 133,-127
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 399,-527
+---
+Switching to natural cleaning solutions like vinegar, baking soda, and essential oils can help reduce the toxic load in your home, creating a healthier space for you and your family.
+
+[[ProTipsCont2]]
+===
+title: ProTipsCont2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 651,-526
+---
+By making small changes, you can create a healthier home environment that supports your well-being as you age.
+
+[[Goodbye.|End]]
+===

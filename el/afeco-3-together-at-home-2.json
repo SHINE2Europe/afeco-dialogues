@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?": "Γνωρίζατε ότι ακόμη και η χρήση της τεχνολογίας για μερικές απλές εργασίες, όπως η πραγματοποίηση κλήσεων ή η αποστολή μηνυμάτων, μπορεί να κρατήσει το μυαλό σας ευκρινές και να διευκολύνει τη σύνδεση;",
+        "It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?": "Φαίνεται ότι έχετε τελειώσει με αυτήν την ενότητα. Είστε έτοιμοι για ένα σύντομο κουίζ για να δοκιμάσετε τις γνώσεις σας;",
+        "Okay, here we go! First question: what is the benefit of regular communication?": "Εντάξει, πάμε! Πρώτη ερώτηση: ποιο είναι το όφελος της τακτικής επικοινωνίας;",
+        "Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...": "Δυστυχώς, αυτό δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Α) Νιώθω λιγότερο μόνος</b>. Πάμε στο δεύτερο ερώτημα…",
+        "Indeed, that's correct! One to the second question...": "Πράγματι, αυτό είναι σωστό! Μισό λεπτό για το δεύτερο ερώτημα…",
+        "Okay, second question: \"You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?": "Εντάξει, δεύτερη ερώτηση: \"Μπορείτε να παραμείνετε εμπλεκόμενοι στην κοινότητα από το σπίτι εντασσόμενοι σε ένα φυλλάδιο ή ενημερωτικό δελτίο. Είναι αυτή η δήλωση...;",
+        "It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...": "Είναι αλήθεια! Μερικές φορές μπορεί να είναι τόσο απλό να παραμείνετε εμπλεκόμενοι! Σε κάθε περίπτωση, ας περάσουμε στην τελευταία ερώτηση…",
+        "Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...": "Πράγματι είναι! Μερικές φορές μπορεί να είναι τόσο απλό να παραμείνετε εμπλεκόμενοι! Ώρα για την τελευταία ερώτηση…",
+        "Final question: how can community volunteers assist you?": "Τελευταία ερώτηση: πώς μπορούν οι εθελοντές της κοινότητας να σας βοηθήσουν;",
+        "Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...": "Δυστυχώς αυτό δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Β) Με το να σας επισκέπτονται τακτικά για μια συνομιλία</b>. Τέλος πάντων, ας ρίξουμε μια ματιά στην τελική βαθμολογία σας…",
+        "Yes correct! Nice! Let's have a look at your final score, shall we?": "Ναι σωστά! Ομορφα! Ας ρίξουμε μια ματιά στο τελικό σκορ σας, έτσι δεν είναι;",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε σε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "It looks like you are ready for the next module, well done!": "Φαίνεται ότι είστε έτοιμοι για την επόμενη ενότητα, μπράβο!"
+    },
+    "_user": {
+        "Take the quiz.": "Κάντε το κουίζ.",
+        "Goodbye.": "Αντίο.",
+        "A) Feeling less alone": "Α) Νιώθεις λιγότερο μόνος",
+        "B) Saving money": "Β) Εξοικονόμηση χρημάτων",
+        "C) Improving diet": "Γ) Βελτίωση της διατροφής",
+        "A) True": "Α) Σωστή",
+        "B) False": "Β) Λάθος",
+        "A) By providing you a financial help": "Α) Παρέχοντάς σας οικονομική βοήθεια",
+        "B) By visiting you regularly for a chat": "Β) Με το να σας επισκέπτονται τακτικά για μια συνομιλία",
+        "C) By teaching you complex technology": "Γ) Διδάσκοντάς σας πολύπλοκη τεχνολογία",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ."
+    }
+}

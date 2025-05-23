@@ -1,0 +1,93 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -318,-275
+---
+Hello again! Have you finished the lesson? If so, I have some additional tips for you.
+
+[[I finished.|ProTips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 385,38
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: -23,-412
+---
+Great! So, did you know that certain houseplants not only beautify your home but can also act as natural air purifiers?
+
+[[ProTipsCont]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: -27,-155
+---
+Okay, take your time. When you've finished, come talk to me again!
+
+[[Goodbye.|End]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 274,-411
+---
+Plants like English Ivy, snake plants, and bamboo palms can help reduce indoor air pollution by filtering out harmful substances like formaldehyde and benzene from the air.
+
+[[Tell me more...|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 580,-418
+---
+Improving the air quality in your home can make a big difference in how you feel every day. By making simple changes, you can help protect your lung health, boost your energy levels, and even reduce the risk of developing serious health problems.
+
+[[Anything else?|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 901,-421
+---
+Well, I don't have any more tips, but I do have a video that you may find interesting. It's from the American Lung Association and is titled <a href="https:\/\/www.youtube.com\/watch?v=Aabz4MHXgT4" target="_new">How Indoor Air Quality Impacts Your Lungs</a> (click to view).
+
+[[Anything more?|ProTips4]]
+[[Goodbye.|End]]
+===
+title: ProTips4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1191,-421
+---
+I only have this other video from the "Quartz" channel, called <a href="https:\/\/www.youtube.com\/watch?v=lPNYdSZRSdg" target="_new">A NASA study explains how to purify air with house plants</a>. Have a look if you're interested!
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1191,-136
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

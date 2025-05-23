@@ -1,0 +1,38 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -175,-291
+---
+In this section, you will learn what you can do to green up your own living environment.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 608,-292
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 90,-291
+---
+You will receive information about green activities and other initiatives that are likely to be available, also around your home!
+
+[[EndOfModule]]
+===
+title: EndOfModule
+tags: 
+speaker: Alfi
+colorID: 0
+position: 356,-294
+---
+After finishing this lesson, come talk to me again for a final quiz to test your knowledge!
+
+[[Goodbye.|End]]
+===

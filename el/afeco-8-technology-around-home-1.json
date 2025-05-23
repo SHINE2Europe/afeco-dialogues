@@ -1,0 +1,20 @@
+{
+    "Alfi": {
+        "Hello again. Did you finished the lesson? If so, I have some additional tips for you...": "Γεια σας και πάλι. Τελειώσατε το μάθημα; Αν ναι, έχω μερικές επιπλέον συμβουλές για εσάς...",
+        "So, first fun fact... Did you know that the city of Eindhoven in the Netherlands launched a \"Smart Lighting\" initiative in Strijp-S?": "Λοιπόν, το πρώτο διασκεδαστικό γεγονός... Γνωρίζατε ότι η πόλη του Αϊντχόβεν στην Ολλανδία ξεκίνησε μια πρωτοβουλία «Έξυπνου φωτισμού» στο Strijp-S;",
+        "Okay, no problem. Come back later after you finished the lesson!": "Εντάξει, κανένα πρόβλημα. Επιστρέψτε αργότερα αφού τελειώσετε το μάθημα!",
+        "Here LED lights come on automatically when people are detected and dim when the area is empty. This approach has reduced energy consumption significantly while enhancing safety.": "Εδώ τα φώτα LED ανάβουν αυτόματα όταν εντοπίζονται άτομα και χαμηλώνουν όταν η περιοχή είναι άδεια. Αυτή η προσέγγιση έχει μειώσει σημαντικά την κατανάλωση ενέργειας ενώ παράλληλα ενισχύει την ασφάλεια.",
+        "Similarly, the city of Oslo (Norway) has rolled out adaptive street lighting, which adjusts brightness based on activity levels, helping the city reduce both energy costs and light pollution.": "Ομοίως, η πόλη του Όσλο (Νορβηγία) κυκλοφόρησε προσαρμοστικό φωτισμό δρόμου, ο οποίος προσαρμόζει τη φωτεινότητα με βάση τα επίπεδα δραστηριότητας, βοηθώντας την πόλη να μειώσει τόσο το ενεργειακό κόστος όσο και τη φωτορύπανση.",
+        "This kind of smart lighting is gaining popularity worldwide thanks to its benefits in terms of sustainability and urban safety.": "Αυτό το είδος έξυπνου φωτισμού κερδίζει δημοτικότητα παγκοσμίως χάρη στα οφέλη του όσον αφορά τη βιωσιμότητα και την αστική ασφάλεια.",
+        "Okay, final fun fact... Did you know that the first \"smart city\" in the world is widely considered to be Songdo in South Korea?": "Εντάξει, τελευταίο διασκεδαστικό γεγονός... Γνωρίζατε ότι η πρώτη «έξυπνη πόλη» στον κόσμο θεωρείται ευρέως ότι είναι το Songdo στη Νότια Κορέα;",
+        "It was built from the ground up with technology designed to improve the lives of residents, including eco-friendly and age-friendly solutions!": "Κατασκευάστηκε από την αρχή με τεχνολογία που έχει σχεδιαστεί για να βελτιώσει τη ζωή των κατοίκων, συμπεριλαμβανομένων λύσεων φιλικών προς το περιβάλλον και φιλικών προς την ηλικία!",
+        "There is a video that shows this city from the Architectural Adventures channel, called <a href=\"https:\\/\\/www.youtube.com/watch?v=2X39rGB5KWE\" target=\"_new\">South Korea Built A New SMART City And It SURPRISED Everyone</a>.": "Υπάρχει ένα βίντεο που δείχνει αυτή την πόλη από το κανάλι Architectural Adventures, που ονομάζεται <a href=\"https:\\/\\/www.youtube.com\\/watch?v=2X39rGB5KWE\" target=\"_new\">South Korea Built A New SMART City And It SURPRISED Everyone</a>.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμαι πως αυτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "I finished.": "τελείωσα.",
+        "Not yet.": "Οχι ακόμη.",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

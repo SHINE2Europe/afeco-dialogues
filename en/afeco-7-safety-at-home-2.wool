@@ -1,0 +1,60 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -368,-276
+---
+Hello again. Did you finished the lesson? If so, I have some additional tips for you...
+
+[[I finished.|Tips]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 273,-76
+---
+
+===
+title: Tips
+tags: 
+speaker: Alfi
+colorID: 0
+position: -56,-449
+---
+Allright so, did you know that the first "smart stove" was developed after a survey showed that nearly 50% of older adults had left their stove on at least once by accident.
+
+[[Tips2]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: -52,-111
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: Tips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 252,-442
+---
+Now, smart stoves turn off automatically, helping prevent kitchen fires and giving you peace of mind while cooking!
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 518,-300
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing standby energy?": "Sind Sie bereit, mehr über die Verringerung der Standby-Energie zu erfahren?",
+        "Well, did you know that \"Standby energy\" is also referred to as \"Vampire Power\", a creepy but fitting name...": "Nun, wussten Sie, dass \"Standby-Energie\" auch als \"Vampirstrom\" bezeichnet wird? Ein gruseliger, aber passender Name...",
+        "By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.": "Wenn Sie die Stromzufuhr zu Geräten wie Kaffeemaschinen, Handyladegeräten oder Mikrowellen abschalten, wenn sie nicht in Gebrauch sind, können Sie im Laufe der Zeit erstaunlich viel Energie sparen.",
+        "Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!": "Wussten Sie, dass Sie mit smarten Steckdosen Ihre Geräte steuern und Energie sparen können, selbst wenn Sie vergessen haben, etwas auszuschalten, bevor Sie das Haus verlassen? Sie können sich einfach in die App einloggen und das Gerät aus der Ferne ausschalten!",
+        "Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?": "Okay, eine Info noch... Weil die Energie bei LED-Lampen nicht in Form von Wärme verloren geht, werden diese im Gegensatz zu Glühbirnen auch nicht so warm, was hier und da ganz praktisch sein kann.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Das ist leider alles, was ich an zusätzlichen Informationen habe. Vielleicht sind Sie bereit für die nächste Lektion!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Ja, erzähl mir mehr...",
+        "Not now, thanks.": "Jetzt nicht, danke.",
+        "Tell me more...": "Erzähl mir mehr...",
+        "Goodbye.": "Auf Wiedersehen.",
+        "Anything else?": "Sonst noch etwas?"
+    }
+}

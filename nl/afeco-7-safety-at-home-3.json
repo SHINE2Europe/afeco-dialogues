@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you've finished this lesson, all that remains is to take the final quiz. Are you ready?": "Als u de les hebt afgerond, hoeft u alleen nog maar de laatste quiz te doen. Bent u er klaar voor?",
+        "Okay, first question: An age-friendly home is designed to adapt to...?": "Oké, eerste vraag: een leeftijdsvriendelijke woning is ontworpen om zich aan te passen aan...?",
+        "Yes, that's correct! Well done! Let's go to the second question...": "Ja, dat is correct! Goed gedaan! Laten we naar de tweede vraag gaan…",
+        "No, that's not correct. The right answer was <b>A) a person's changing needs</b>. Let's move to the second question...": "Nee, dat is niet correct. Het juiste antwoord was <b>A) de veranderende behoeften van een persoon</b>. Laten we doorgaan naar de tweede vraag…",
+        "Allright, second question. A grab bar is mostly useful in the ...?": "Oké, tweede vraag. Een steungreep is het nuttigst in de ...?",
+        "No, that's not the answer I was looking for. The right answer was <b>D) bathroom</b>. Let's move to the third and final question...": "Nee, dat is niet het antwoord waar ik naar zocht. Het juiste antwoord was <b>D) badkamer</b>. Laten we doorgaan naar de derde en laatste vraag…",
+        "Yes, that's right! One more question left...": "Ja, dat is correct! Nog één vraag te gaan…",
+        "Final question for today... One of the leading causes of injury among older people is ...?": "Laatste vraag voor vandaag... Eén van de belangrijkste oorzaken van letsel bij ouderen is ...?",
+        "No that is not the right answer. I was looking for option <b>C) falling</b>. No matter, let's have a look at your final score...": "Nee, dat is niet het juiste antwoord. Ik zocht optie <b>C) vallen</b>. Geen zorgen, laten we naar uw uiteindelijke score kijken…",
+        "Yes, you are absolutely right! Now, let's have a look at your final score...": "Ja, u heeft helemaal gelijk! Laten we nu naar uw uiteindelijke score kijken…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "I don't have anything more to add for this lesson.": "Ik heb niets meer toe te voegen aan deze les."
+    },
+    "_user": {
+        "Take the quiz.": "Laten we de quiz doen.",
+        "Goodbye.": "Tot ziens.",
+        "A) a person’s changing needs": "A) de veranderende behoeften van een persoon",
+        "B) the change of the seasons": "B) de verandering van de seizoenen",
+        "C) the prevention of falls": "C) valpreventie",
+        "D) the needs of the caregiver": "D) de behoeften van de verzorger",
+        "A) kitchen": "A) keuken",
+        "B) living room": "B) woonkamer",
+        "C) hallway": "C) gang",
+        "D) bathroom": "D) badkamer",
+        "A) poor vision": "A) slecht zicht",
+        "B) accidents in the kitchen": "B) ongevallen in de keuken",
+        "C) falling": "C) vallen",
+        "D) working accidents": "D) arbeidsongevallen",
+        "Redo the quiz.": "De quiz opnieuw doen."
+    }
+}

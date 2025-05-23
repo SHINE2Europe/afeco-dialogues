@@ -1,0 +1,16 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing water use?": "Είστε έτοιμοι να μάθετε περισσότερα για τη μείωση της χρήσης νερού;",
+        "Did you know that a \"tap aerator\" can save up to 1,000 litres of water per month in a typical household, depending on how often the faucets are used. Over a year, this adds up to a substantial amount of water saved.": "Γνωρίζατε ότι ένας «αεριστής βρύσης» μπορεί να εξοικονομήσει έως και 1.000 λίτρα νερού το μήνα σε ένα τυπικό νοικοκυριό, ανάλογα με το πόσο συχνά χρησιμοποιούνται οι βρύσες. Πάνω από ένα χρόνο, αυτό προσθέτει μια σημαντική ποσότητα νερού που εξοικονομείται.",
+        "Did you know that a standard showerhead uses around 10-15 litres of water per minute. A water-saving showerhead cuts this down to about 6-8 litres per minute, saving a significant amount of water with each shower.": "Γνωρίζατε ότι μια τυπική κεφαλή ντους χρησιμοποιεί περίπου 10-15 λίτρα νερού ανά λεπτό. Μια κεφαλή ντους που εξοικονομεί νερό μειώνει αυτό σε περίπου 6-8 λίτρα ανά λεπτό, εξοικονομώντας σημαντική ποσότητα νερού με κάθε ντους.",
+        "Did you know that by law, toilets produced after 1994 may not use more than 6 litres per flush. How old is your toilet?": "Γνωρίζατε ότι βάσει νόμου, οι τουαλέτες που παράγονται μετά το 1994 δεν επιτρέπεται να χρησιμοποιούν περισσότερα από 6 λίτρα ανά έκπλυση. Πόσο χρονών είναι η τουαλέτα σου;",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμαι πως αυτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Ναι, πες μου περισσότερα...",
+        "Not now, thanks.": "Όχι τώρα, ευχαριστώ.",
+        "Tell me more...": "Πες μου περισσότερα...",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

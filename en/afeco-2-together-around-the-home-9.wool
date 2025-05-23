@@ -1,0 +1,50 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -244,-418
+---
+Did you know that green public spaces not only make your community more beautiful, but they also offer long-term benefits for health and well-being?
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 531,-696
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 43,-417
+---
+Studies show that people who spend time in nature are less likely to suffer from stress-related illnesses. These spaces also help combat loneliness, as they encourage people to come together and take part in community activities.
+
+[[Tell me more...|ProTips]]
+[[Goodbye.|End]]
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 365,-416
+---
+Well, I don't have much more to say, but I do have <a href="https:\/\/www.youtube.com\/watch?v=0nPUZ9TW3jg" target="_new">another video</a> for you to watch, enjoy!
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 659,-417
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

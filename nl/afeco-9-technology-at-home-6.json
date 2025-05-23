@@ -1,0 +1,43 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about generating your own electricty, or are you ready to take the final quiz?": "Wilt u nu meer leren over hoe u uw eigen electriciteit kunt opwekken, of bent u klaar voor de quiz?",
+        "That's all the extra information I have I'm afraid. It looks like you're ready for the next course!": "Dat is alle extra informatie die ik heb, vrees ik. Het lijkt erop dat u klaar bent voor de volgende cursus!",
+        "Did you know that even if you can’t install enough solar panels to power your entire home, you can still benefit from \"partial solar power\". This means that solar panels meet part of your energy needs, reducing what you use from the grid.": "Wist u dat u, zelfs als u niet genoeg zonnepanelen kunt installeren om uw hele huis van stroom te voorzien, toch kunt profiteren van “gedeeltelijke zonnestroom”. Dit betekent dat zonnepanelen in een deel van uw energiebehoefte voorzien, waardoor u minder verbruikt van het elektriciteitsnet.",
+        "Did you know that solar panels can still work on cloudy days? They do not need direct sunlight to produce electricity, just daylight! So, even in less sunny areas, solar power can still help you save energy and money.": "Wist u dat zonnepanelen ook op bewolkte dagen kunnen werken? Ze hebben geen direct zonlicht nodig om elektriciteit te produceren, alleen daglicht! Dus zelfs in minder zonnige gebieden kan zonne-energie u helpen energie en geld te besparen.",
+        "Did you know that small wind turbines can be used to supplement your home's electricity, reducing your reliance on the grid, much like solar panels. For rural properties with a lot of wind, wind turbines could cover most of your electricity needs.": "Wist u dat kleine windturbines gebruikt kunnen worden om de elektriciteit van uw huis aan te vullen, zodat u minder afhankelijk bent van het elektriciteitsnet, net als zonnepanelen. Voor landelijke eigendommen met veel wind kunnen windturbines het grootste deel van uw elektriciteitsbehoefte dekken.",
+        "Did you know that micro-hydro systems are great for homes located in areas with year-round flowing water. Even if you only generate a portion of your electricity this way, it can be an effective way to reduce your energy bills.": "Wist u dat micro-hydrosystemen geweldig zijn voor huizen in gebieden waar het hele jaar door water stroomt. Zelfs als u slechts een deel van uw elektriciteit op deze manier opwekt, kan het een effectieve manier zijn om uw energierekeningen te verlagen.",
+        "Okay, first question: Why should you use power strips?": "Oké, eerste vraag: Waarom zou u een stekkerdoos gebruiken?",
+        "Unfortunately that's not right. The correct answer was <b>A) To plug in multiple devices safely.</b>. Anyway, let's quickly move to the second question...": "Helaas, dat is niet juist. Het juiste antwoord was <b>A) Om meerdere apparaten veilig aan te sluiten.</b>. Laten we snel doorgaan naar de tweede vraag…",
+        "Yes, well done! That was correct. Now, let's go the second question...": "Ja, goed gedaan! Dat was correct. Oké, laten we doorgaan naar de tweede vraag…",
+        "Second question: Why should you use radiator foil?": "Tweede vraag: Waarom zou u radiatorfolie gebruiken?",
+        "Oh no, unfortunately that's not correct. The answer was <b>C) To reflect heat back into the room</b>. Time for the third and last question...": "Oh nee, helaas was dat niet correct. Het juiste antwoord was <b>C) Om de warmte terug de kamer in te reflecteren.</b>. Tijd voor de derde en laatste vraag…",
+        "Yes, indeed, very well. Time for the third and last question...": "Ja, inderdaad, heel goed. Tijd voor de derde en laatste vraag…",
+        "Final question for today: What is a Bokashi Bin used for?": "Laatste vraag voor vandaag: Waarvoor wordt een Bokashi Bin gebruikt?",
+        "That's right, great! Now, are you ready to see your final score? Let's go...": "Dat is juist, geweldig! Bent u klaar om uw uiteindelijke score te zien? Laten we eens kijken…",
+        "That's not right unfortunately. The correct answer was <b>B) To compost food waste indoors</b>. Let's quickly take a look at your final score...": "Helaas, dat is niet juist. Het juiste antwoord was <b>B) Om etensresten binnenshuis te composteren</b>. Laten we snel naar uw uiteindelijke score kijken…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "Are you ready to learn some more about generating your own electricty?": "Bent u klaar om meer te leren over het opwekken van uw eigen elektriciteit?"
+    },
+    "_user": {
+        "I want to learn more.": "Ik wil meer leren.",
+        "Start the quiz.": "Start de quiz.",
+        "Not now, thanks.": "Nu niet, bedankt.",
+        "Goodbye.": "Tot ziens.",
+        "Tell me more.": "Vertel me meer.",
+        "Anything else?": "Verder nog iets?",
+        "A) To plug in multiple devices safely.": "A) Om meerdere apparaten veilig aan te sluiten.",
+        "B) To increase the power supply in your home.": "B) Om de stroomvoorziening in uw huis te verhogen.",
+        "C) To use more electricity at once.": "C) Om meer elektriciteit tegelijk te gebruiken.",
+        "A) To cool down the radiator faster.": "A) Om de radiator sneller af te koelen.",
+        "B) To make the radiator shiny.": "B) Om de radiator glanzend te maken.",
+        "C) To reflect heat back into the room.": "C) Om de warmte terug de kamer in te reflecteren.",
+        "A) To store dry food like rice and pasta.": "A) Om droge voedingsmiddelen zoals rijst en pasta op te slaan.",
+        "B) To compost food waste indoors.": "B) Om etensresten binnenshuis te composteren.",
+        "C) To get rid of plastic waste.": "C) Om plastic afval kwijt te raken.",
+        "Redo the quiz.": "De quiz opnieuw doen.",
+        "Yes, tell me more...": "Ja, vertel me meer..."
+    }
+}

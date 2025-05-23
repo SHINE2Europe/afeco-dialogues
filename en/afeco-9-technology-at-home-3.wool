@@ -1,0 +1,102 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 48,-413
+---
+Are you ready to learn some more about eco-friendly heating solutions?
+
+[[Yes, tell me more...|ProTips]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 53,-143
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 343,-414
+---
+Did you know that radiator foil is particularly effective in rooms with outside walls, where heat is most likely to escape during the winter and penetrate in the summer.
+
+[[ProTips2]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 634,-412
+---
+Installing it in bedrooms or living rooms where you spend most of your time can make a noticeable difference in terms of warmth and cooling.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 903,-413
+---
+Did you know that radiator fans are particularly helpful in larger rooms, where heating or cooling every corner can take longer.
+
+[[ProTips4]]
+===
+title: ProTips4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1195,-414
+---
+By circulating air more quickly, they help create a more even and comfortable temperature throughout the room.
+
+[[ProTips5]]
+===
+title: ProTips5
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1495,-412
+---
+In some rented flats however, there might be rules about (not) using a radiator fan and, therefore, it is important to check first with your landlord or landlady.
+
+[[Tell me more...|ProTips6]]
+[[Goodbye.|End]]
+===
+title: ProTips6
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1809,-411
+---
+Did you know that some smart thermostats can even work with voice-activated systems like Alexa or Google Home, allowing you to control your heating or cooling with simple voice commands.
+
+[[ProTips7]]
+===
+title: ProTips7
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2099,-411
+---
+They also provide data on how much energy you’re using, giving you more control over your heating and cooling habits.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1811,-100
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

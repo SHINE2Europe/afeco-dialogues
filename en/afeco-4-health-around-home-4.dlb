@@ -1,0 +1,92 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -268,-483
+---
+Are you ready to learn some more about healthcare systems and health rights?
+
+[[Yes, tell me more...|ProTips]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: -264,-178
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 28,-472
+---
+Well, did you know that healthcare systems across the EU are designed to ensure that everyone has access to essential care?
+
+[[ProTipsCont]]
+===
+title: ProTipsCont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 157,-198
+---
+This is especially important for older adults who may have more frequent healthcare needs.
+
+[[Tell me more...|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 333,-465
+---
+Did you know that the European Health Insurance Card (EHIC) allows you to access healthcare when traveling within the EU, ensuring that you’re covered if you need medical attention abroad?
+
+[[ProTips2Cont]]
+===
+title: ProTips2Cont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 471,-190
+---
+It’s a valuable tool for any older adult who enjoys traveling or visiting family in other EU countries.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 309,72
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 662,-462
+---
+Did you know that in some countries, additional healthcare services like dental care or eye care may not be fully covered?
+
+[[ProTips3Cont]]
+===
+title: ProTips3Cont
+tags: 
+speaker: Alfi
+colorID: 0
+position: 802,-192
+---
+It’s important to check with your local healthcare provider to understand what services are included and whether you may need to purchase additional coverage.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===

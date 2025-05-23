@@ -1,0 +1,32 @@
+{
+    "Alfi": {
+        "All that is left is to take the final quiz for this module, are you ready?": "Το μόνο που απομένει είναι να κάνετε το τελικό κουίζ για αυτήν την ενότητα, είστε έτοιμοι;",
+        "Ok, first question: which of the following types of cookware is best avoided to reduce exposure to toxins?": "Εντάξει, πρώτη ερώτηση: ποιος από τους παρακάτω τύπους μαγειρικών σκευών είναι καλύτερα να αποφεύγεται για να μειωθεί η έκθεση σε τοξίνες;",
+        "No unfortunately that's not correct. The right answer was <b>C) Non-stick pans</b>. Let's move to the second question...": "Όχι δυστυχώς δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Γ) Αντικολλητικά τηγάνια</b>. Πάμε στο δεύτερο ερώτημα…",
+        "Yes indeed, non-stick pans are best avoided! Time to move to the next question...": "Ναι όντως, τα αντικολλητικά τηγάνια καλό είναι να αποφεύγονται! Ώρα να προχωρήσουμε στην επόμενη ερώτηση…",
+        "Second question. Is the following statement true, or false: <i>plants such as spider plants, peace lilies, and aloe vera can help remove toxins from the air</i>.": "Δεύτερη ερώτηση. Είναι σωστή ή λάθος η ακόλουθη δήλωση: <i>φυτά όπως τα αραχνοειδή, τα κρίνα της ειρήνης και η αλόη βέρα μπορούν να βοηθήσουν στην απομάκρυνση των τοξινών από τον αέρα</i>.",
+        "No, actually it was true - these plants <i>can</i> reduce toxins from the air! No matter, let's move to the final question...": "Όχι, στην πραγματικότητα ήταν αλήθεια - αυτά τα φυτά <i>μπορούν</i> να μειώσουν τις τοξίνες από τον αέρα! Δεν πειράζει, ας περάσουμε στην τελευταία ερώτηση…",
+        "Yes, these plants <i>can indeed</i> remove toxins from the air! Great! Now, time for the final question...": "Ναι, αυτά τα φυτά <i>μπορούν πράγματι</i> να αφαιρέσουν τις τοξίνες από τον αέρα! Τέλεια! Τώρα, ώρα για την τελευταία ερώτηση…",
+        "Allright, final question: which of the following measures is best to take to reduce the risk of falls?": "Εντάξει, τελευταία ερώτηση: ποιο από τα παρακάτω μέτρα είναι καλύτερο να λάβετε για να μειώσετε τον κίνδυνο πτώσεων;",
+        "No, no, that was not the answer I was looking for. The correct answer was <b>A) Remove carpets</b>. Time to look at you final score...": "Όχι, όχι, δεν ήταν αυτή η απάντηση που έψαχνα. Η σωστή απάντηση ήταν <b>Α) Αφαιρέστε τα χαλιά</b>. Ώρα να δούμε το τελικό σκορ σας…",
+        "Yes indeed, well done! Now it's time to look at your final score...": "Ναι όντως, μπράβο! Τώρα ήρθε η ώρα να δούμε την τελική σας βαθμολογία…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε σε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "I don't have anything more to add to this. If you finished the lesson, you are ready to move to the next course!": "Δεν έχω κάτι άλλο να προσθέσω σε αυτό. Αν τελειώσατε το μάθημα, είστε έτοιμοι να προχωρήσετε στο επόμενο μάθημα!"
+    },
+    "_user": {
+        "Let's do the quiz.": "Ας κάνουμε το κουίζ.",
+        "Goodbye.": "Αντίο.",
+        "A) Cast-iron pots": "Α) Μαντεμένια σκεύη",
+        "B) Stainless steel pans": "Β) Ανοξείδωτα τηγάνια",
+        "C) Non-stick pans": "Γ) Αντικολλητικά τηγάνια",
+        "A) True": "Α) Σωστό",
+        "B) False": "Β) Λάθος",
+        "A) Remove carpets": "Α) Αφαιρέστε τα χαλιά",
+        "B) Use slippers": "Β) Χρησιμοποιήστε παντόφλες",
+        "C) Place more carpets": "Γ) Τοποθετήστε περισσότερα χαλιά",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ."
+    }
+}

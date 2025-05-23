@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Are you finished with this lesson? If so, I have a short quiz for you to test your knowledge. Are you ready?": "Terminou esta lição? Se sim, tenho um pequeno questionário para testar os seus conhecimentos. Está pronto/a?",
+        "Okay, here we go. First question. A welcoming community is characterised by good social cohesion, meaning:": "Ok, vamos começar. Primeira pergunta. Uma comunidade acolhedora caracteriza-se por uma boa coesão social, o que significa:",
+        "No, that's not correct. The right answer was <b>B) Strong ties between people</b>. On to the next question!": "Não, essa não está correta. A resposta certa era: <b>B) Laços fortes entre as pessoas</b>. Vamos para a próxima pergunta!",
+        "Very good! One question correct, two more to go. Ready for the next one?": "Muito bem! Uma resposta correta, duas para ir. Pronto para a próxima?",
+        "Okay, second question. Intergenerational practices can contribute to:": "Ok, segunda pergunta. As práticas intergeracionais podem contribuir para:",
+        "No, unfortunately that's not correct. The right answer was <b>C) Fostering the exchange of knowledge between older and younger people</b>. Let's quickly move to the last question.": "Não, infelizmente essa não está correta. A resposta certa era: <b>C) Fomentar a troca de conhecimento entre as pessoas mais velhas e mais jovens</b>. Vamos rapidamente para a última pergunta.",
+        "That's right! Time for the final question...": "Isso mesmo! Hora da última pergunta…",
+        "Final question. Spending time in certain areas can contribute to decreasing anxiety, stress and preserve wellbeing? Which areas?": "Pergunta final. Passar tempo em certas áreas pode contribuir para diminuir a ansiedade, o stress e preservar o bem-estar. Quais áreas?",
+        "Ai! Unfortunately that was not correct. The right answer was <b>C) Green</b>. No matter, let's have a look at your final score.": "Ai! Infelizmente essa não está correta. A resposta certa era: <b>C) Áreas verdes</b>. Não faz mal, vamos ver a sua pontuação final.",
+        "Yes indeed! Excellent. Now, let's have a look at your final result...": "Sim, de fato! Excelente. Agora, vamos ver o seu resultado final…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Pontuação perfeita, 3 em 3, muito bem! Certamente dominou este módulo!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Acertou 2 das 3 perguntas, muito bom!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Só acertou uma... Talvez devesse rever algum do material?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Não acertou nenhuma das perguntas. Talvez devesse rever algum do material?",
+        "I don't have anymore more to add to this lesson. When you're finished, it's time to move to the next module!": "Não tenho mais nada a acrescentar a esta lição. Quando terminar, estará na altura de avançar para o próximo módulo!"
+    },
+    "_user": {
+        "Take the quiz.": "Faça o questionário.",
+        "Goodbye.": "Adeus.",
+        "A) Large availability of social services": "A) Grande disponibilidade de serviços sociais",
+        "B) Strong ties between people": "B) Laços fortes entre as pessoas",
+        "C) People live close to eachother": "C) As pessoas vivem perto umas das outras",
+        "A) Increase stereotypes": "A) Aumentar os estereótipos",
+        "B) Strengthen older people's isolation": "B) Reforçar o isolamento das pessoas mais velhas",
+        "C) Fostering the exchange of knowledge between older and younger people": "C) Fomentar a troca de conhecimento entre as pessoas mais velhas e mais jovens",
+        "A) Highly frequented": "A) Áreas muito frequentadas",
+        "B) Well-illuminated": "B) Áreas bem iluminadas",
+        "C) Green": "C) Áreas verdes",
+        "Redo the quiz.": "Refazer o questionário."
+    }
+}

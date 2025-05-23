@@ -1,0 +1,81 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 263,-332
+---
+Hello again and welcome to the module on "Health at Home"! I’m Alfi, your digital course leader, and I will guide you through this journey.
+
+[[How does it work?|How]]
+[[Okay, what's next?|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 265,144
+---
+
+===
+title: How
+tags: 
+speaker: Alfi
+colorID: 0
+position: 635,-455
+---
+On the left you see the different parts that make up this course.
+
+[[How2]]
+===
+title: AnythingElse
+tags: 
+speaker: Alfi
+colorID: 0
+position: 659,-154
+---
+After this introduction lesson, we will have five more lessons on Health at Home. I hope you will enjoy it!
+
+[[Goodbye.|End]]
+===
+title: How2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 903,-457
+---
+In the main screen, you can see the content of the lessons, including text, images and sometimes videos.
+
+[[How3]]
+===
+title: How5
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1661,-460
+---
+Once you've finished all six lessons of this course, you can close the window, or click the "Back to Course" button to return to the course overview.
+
+[[Okay, thanks.|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: How4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1408,-460
+---
+Then, click on the "Next" button to go to the next lesson in the course.
+
+[[How5]]
+===
+title: How3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1163,-460
+---
+Go through all the material and click on "Mark as Complete" at the bottom of the page when you're done.
+
+[[How4]]
+===

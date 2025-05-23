@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing standby energy?": "Czy jesteś gotowy, aby dowiedzieć się więcej o zmniejszaniu zużycia energii w trybie czuwania?",
+        "Well, did you know that \"Standby energy\" is also referred to as \"Vampire Power\", a creepy but fitting name...": "Cóż, czy wiesz, że „energia w trybie czuwania” jest również nazywana „mocą wampira”, przerażającą, ale pasującą nazwą...",
+        "By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.": "Odcinając zasilanie urządzeń, takich jak ekspresy do kawy, ładowarki do telefonów lub kuchenki mikrofalowe, gdy nie są używane, możesz zaoszczędzić zaskakująco dużo energii w dłuższej perspektywie.",
+        "Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!": "Czy wiesz, że inteligentne wtyczki mogą pomóc Ci kontrolować urządzenia i oszczędzać energię, nawet jeśli zapomnisz coś wyłączyć przed wyjściem z domu. Możesz po prostu zalogować się do aplikacji i wyłączyć ją zdalnie!",
+        "Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?": "Okej, jeszcze jedno... Czy wiesz, że oświetlenie LED, oprócz tego, że jest bardziej energooszczędne, wytwarza również mniej ciepła niż tradycyjne żarówki?",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Obawiam się, że to wszystkie dodatkowe informacje, jakie posiadam. Być może jesteś gotowy na następną lekcję!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Tak, powiedz mi więcej...",
+        "Not now, thanks.": "Nie teraz, dziękuję.",
+        "Tell me more...": "Powiedz mi więcej...",
+        "Goodbye.": "Do widzenia.",
+        "Anything else?": "Coś jeszcze?"
+    }
+}

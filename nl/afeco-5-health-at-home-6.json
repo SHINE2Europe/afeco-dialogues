@@ -1,0 +1,32 @@
+{
+    "Alfi": {
+        "All that is left is to take the final quiz for this module, are you ready?": "Het enige dat overblijft is de quiz van deze module. Bent u er klaar voor?",
+        "Ok, first question: which of the following types of cookware is best avoided to reduce exposure to toxins?": "De eerste vraag: welke van het volgende kookgerei kan men beter niet gebruiken om blootstelling aan giftige stoffen te vermijden?",
+        "No unfortunately that's not correct. The right answer was <b>C) Non-stick pans</b>. Let's move to the second question...": "Nee helaas, dat is niet goed. Het goede antwoord is <b>C) Anti-aanbak pannen</b>. De volgende vraag.",
+        "Yes indeed, non-stick pans are best avoided! Time to move to the next question...": "Ja inderdaad kunnen anti-aanbakpannen beter niet gebruikt worden. De volgende vraag.",
+        "Second question. Is the following statement true, or false: <i>plants such as spider plants, peace lilies, and aloe vera can help remove toxins from the air</i>.": "Tweede vraag. Is de volgende stelling waar of niet waar: <i> planten zoals spinplanten, vredeslelies en aloe vera kunnen giftige stoffen uit de lucht halen. ",
+        "No, actually it was true - these plants <i>can</i> reduce toxins from the air! No matter, let's move to the final question...": "Nee, het is waar. Deze planten <i>kunnen</i> giftige stoffen uit de lucht halen. Geen probleem. De volgende vraag...",
+        "Yes, these plants <i>can indeed</i> remove toxins from the air! Great! Now, time for the final question...": "Ja, deze planten <i> kunnen inderdaad</i> giftige stoffen uit de lucht halen. Goed. Tijd voor de volgende vraag..",
+        "Allright, final question: which of the following measures is best to take to reduce the risk of falls?": "De laatste vraag: welke van de volgende maatregelen kan iemand het beste nemen om het risico op vallen te verminderen?",
+        "No, no, that was not the answer I was looking for. The correct answer was <b>A) Remove carpets</b>. Time to look at you final score...": "Nee, dat was niet het antwoord dat ik zocht. Het goede antwoord was <b>A) Vloerkleden weghalen</b>. Tijd voor de totaalscore.",
+        "Yes indeed, well done! Now it's time to look at your final score...": "Ja inderdaad. Goed gedaan. Nu is het tijd voor de totaalscore.",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "I don't have anything more to add to this. If you finished the lesson, you are ready to move to the next course!": "Ik heb hier niets meer aan toe te voegen. Als u klaar bent met de les, bent u klaar om naar de volgende cursus te gaan!"
+    },
+    "_user": {
+        "Let's do the quiz.": "Laten we de quiz doen.",
+        "Goodbye.": "Tot ziens.",
+        "A) Cast-iron pots": "A) Gietijzeren potten",
+        "B) Stainless steel pans": "B) Roestvrijstalen pannen",
+        "C) Non-stick pans": "C) Anti-aanbakpannen",
+        "A) True": "A) Waar",
+        "B) False": "B) Niet waar",
+        "A) Remove carpets": "A) Vloerkleden weghalen",
+        "B) Use slippers": "B) Slippers dragen",
+        "C) Place more carpets": "C) Meer kleden neerleggen",
+        "Redo the quiz.": "De quiz opnieuw doen."
+    }
+}

@@ -1,0 +1,39 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -192,-290
+---
+Research shows that when care services are integrated, older adults are less likely to experience hospital visits or health emergencies.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 413,-290
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 95,-293
+---
+With better coordination, they receive more preventive care, which can help them stay independent and healthy for longer.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 95,-27
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

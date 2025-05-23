@@ -1,0 +1,91 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 83,-288
+---
+Welcome to the module "eco-friendly technology". In this module, I will guide you through different kinds of technology that can help you lead a more sustainable life.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 90,-21
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 349,-289
+---
+We will look at technology to help you save energy, water and waste! But first, let us check out what eco- and age-friendly technologies are.
+
+[[How does it work?|How]]
+[[Okay, what's next?|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: How
+tags: 
+speaker: Alfi
+colorID: 0
+position: 635,-442
+---
+On the left you see the different parts that make up this course.
+
+[[How2]]
+===
+title: AnythingElse
+tags: 
+speaker: Alfi
+colorID: 0
+position: 659,-154
+---
+After this introduction lesson, you will know what eco-friendly technologies are. In the next lessons we will explore in what ways we can incorporate these technologies in our own lives. Good luck!
+
+[[Goodbye.|End]]
+===
+title: How2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 899,-440
+---
+In the main screen, you can see the content of the lessons, including text, images and sometimes videos.
+
+[[How3]]
+===
+title: How5
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1655,-440
+---
+Once you've finished all six lessons of this course, you can close the window, or click the "Back to Course" button to return to the course overview.
+
+[[Okay, thanks.|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: How4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1403,-437
+---
+Then, click on the "Next" button to go to the next lesson in the course.
+
+[[How5]]
+===
+title: How3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1158,-442
+---
+Go through all the material and click on "Mark as Complete" at the bottom of the page when you're done.
+
+[[How4]]
+===

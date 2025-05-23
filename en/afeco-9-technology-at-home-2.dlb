@@ -1,0 +1,73 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 104,-446
+---
+Are you ready to learn some more about reducing standby energy?
+
+[[Yes, tell me more...|ProTips]]
+[[Not now, thanks.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 109,-172
+---
+
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 402,-445
+---
+Well, did you know that "Standby energy" is also referred to as "Vampire Power", a creepy but fitting name...
+
+[[Tell me more...|ProTips2]]
+[[Goodbye.|End]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 679,-443
+---
+By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 959,-443
+---
+Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!
+
+[[Tell me more...|ProTips4]]
+[[Goodbye.|End]]
+===
+title: ProTips4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1246,-444
+---
+Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 824,-138
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

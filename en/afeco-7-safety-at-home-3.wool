@@ -1,0 +1,145 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -91,-312
+---
+If you've finished this lesson, all that remains is to take the final quiz. Are you ready?
+
+[[Take the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 260,12
+---
+
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 221,-313
+---
+<<set $Q7Correct = 0 >>
+
+Okay, first question: An age-friendly home is designed to adapt to...?
+
+[[A) a person’s changing needs|Q1Correct]]
+[[B) the change of the seasons|Q1Wrong]]
+[[C) the prevention of falls|Q1Wrong]]
+[[D) the needs of the caregiver|Q1Wrong]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 540,-168
+---
+<<set $Q7Correct = $Q7Correct + 1 >>
+
+Yes, that's correct! Well done! Let's go to the second question...
+
+[[Q2]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 538,-440
+---
+No, that's not correct. The right answer was <b>A) a person's changing needs</b>. Let's move to the second question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 858,-291
+---
+Allright, second question. A grab bar is mostly useful in the ...?
+
+[[A) kitchen|Q2Wrong]]
+[[B) living room|Q2Wrong]]
+[[C) hallway|Q2Wrong]]
+[[D) bathroom|Q2Correct]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1177,-433
+---
+No, that's not the answer I was looking for. The right answer was <b>D) bathroom</b>. Let's move to the third and final question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1186,-148
+---
+<<set $Q7Correct = $Q7Correct + 1 >>
+
+Yes, that's right! One more question left...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1487,-302
+---
+Final question for today... One of the leading causes of injury among older people is ...?
+
+[[A) poor vision|Q3Wrong]]
+[[B) accidents in the kitchen|Q3Wrong]]
+[[C) falling|Q3Correct]]
+[[D) working accidents|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1807,-446
+---
+No that is not the right answer. I was looking for option <b>C) falling</b>. No matter, let's have a look at your final score...
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1813,-152
+---
+<<set $Q7Correct = $Q7Correct + 1 >>
+
+Yes, you are absolutely right! Now, let's have a look at your final score...
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2127,-300
+---
+<<if $Q7Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q7Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q7Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Goodbye.|End]]
+===

@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you've finished this lesson, all that remains is to take the final quiz. Are you ready?": "Wenn Sie diese Lektion beendet haben, müssen Sie nur noch das abschließende Quiz absolvieren. Sind Sie bereit?",
+        "Okay, first question: An age-friendly home is designed to adapt to...?": "Okay, erste Frage: Ein altersgerechtes Zuhause ist so konzipiert, dass es sich woran anpasst?",
+        "Yes, that's correct! Well done! Let's go to the second question...": "Ja, das ist richtig! Gut gemacht! Kommen wir nun zur zweiten Frage...",
+        "No, that's not correct. The right answer was <b>A) a person's changing needs</b>. Let's move to the second question...": "Nein, das ist nicht richtig. Die richtige Antwort war <b>A) An die sich ändernden Bedürfnisse einer Person</b>. Kommen wir nun zur zweiten Frage...",
+        "Allright, second question. A grab bar is mostly useful in the ...?": "In Ordnung, zweite Aufgabe. Ein Haltegriff ist vor allem nützlich in...",
+        "No, that's not the answer I was looking for. The right answer was <b>D) bathroom</b>. Let's move to the third and final question...": "Nein, das ist nicht die Antwort, die ich gesucht habe. Die richtige Antwort war <b>D) im Badezimmer</b>. Kommen wir nun zur dritten und letzten Frage...",
+        "Yes, that's right! One more question left...": "Ja, das ist richtig! Eine Frage bleibt noch übrig...",
+        "Final question for today... One of the leading causes of injury among older people is ...?": "Letzte Frage für dieses Modul. Eine der häufigsten Ursachen für Verletzungen bei älteren Menschen ist ...?",
+        "No that is not the right answer. I was looking for option <b>C) falling</b>. No matter, let's have a look at your final score...": "Nein, das ist nicht die richtige Antwort. Ich habe nach der Option <b>C) Stürze</b> gesucht. Egal, schauen wir uns mal Ihr Endergebnis an...",
+        "Yes, you are absolutely right! Now, let's have a look at your final score...": "Ja, Sie haben völlig recht! Schauen wir uns nun Ihr Endergebnis an...",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfekte Punktzahl, 3 von 3, gut gemacht! Sie haben dieses Modul sicher gemeistert!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Sie haben 2 der 3 Fragen richtig beantwortet, sehr schön!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Nur eine Frage richtig... Vielleicht möchten Sie einige der Inhalte noch einmal durchgehen?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Sie haben keine der Fragen richtig beantwortet. Vielleicht möchten Sie einige der Inhalte noch einmal durchgehen?",
+        "I don't have anything more to add for this lesson.": "Zu dieser Lektion habe ich nichts hinzuzufügen."
+    },
+    "_user": {
+        "Take the quiz.": "Das Quiz machen.",
+        "Goodbye.": "Auf Wiedersehen.",
+        "A) a person’s changing needs": "A) An die sich ändernden Bedürfnisse einer Person",
+        "B) the change of the seasons": "B) An den Wechsel der Jahreszeiten",
+        "C) the prevention of falls": "C) An die Verhinderung von Stürzen",
+        "D) the needs of the caregiver": "D) An die Bedürfnisse der Betreuungsperson",
+        "A) kitchen": "A) der Küche",
+        "B) living room": "B) dem Wohnzimmer",
+        "C) hallway": "C) dem Flur",
+        "D) bathroom": "D) dem Badezimmer",
+        "A) poor vision": "A) schlechtes Sehvermögen",
+        "B) accidents in the kitchen": "B) Unfälle in der Küche",
+        "C) falling": "C) Stürze",
+        "D) working accidents": "D) Arbeitsunfälle",
+        "Redo the quiz.": "Das Quiz wiederholen."
+    }
+}

@@ -1,0 +1,60 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -207,-280
+---
+So, did you finish the lesson? If so, I have some additional reflections for you.
+
+[[I finished.|Reflection]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 633,-286
+---
+
+===
+title: Reflection
+tags: 
+speaker: Alfi
+colorID: 0
+position: 71,-420
+---
+It may be good to reflect a little on this lesson. For example, think about any community-based age-friendly practices in your region...
+
+[[Reflection2]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: 73,-157
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: Reflection2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 336,-419
+---
+Think about any propositions for improvement, or perhaps any inadequacies you consider important?
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 335,-147
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

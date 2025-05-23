@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Are you finished with this lesson? If so, I have a short quiz for you to test your knowledge. Are you ready?": "Bent u klaar met de les? Ik heb een korte quiz voor u om uw kennis te testen. Bent u er klaar voor?",
+        "Okay, here we go. First question. A welcoming community is characterised by good social cohesion, meaning:": "Okay, hier gaan we dan. Eerste vraag. Een gastvrije samenleving kent een goede sociale samenhang. Dit betekent:",
+        "No, that's not correct. The right answer was <b>B) Strong ties between people</b>. On to the next question!": "Nee, dat is niet goed. Het goede antwoord was <b>B) Mensen hebben sterke banden met elkaar</b>. Op naar de volgende vraag.",
+        "Very good! One question correct, two more to go. Ready for the next one?": "Erg goed. Een vraag goed, twee te gaan. Klaar voor de volgende?",
+        "Okay, second question. Intergenerational practices can contribute to:": "Tweede vraag. Intergenerationele praktijk draagt bij tot:",
+        "No, unfortunately that's not correct. The right answer was <b>C) Fostering the exchange of knowledge between older and younger people</b>. Let's quickly move to the last question.": "Nee, helaas is dat niet goed. Het goede antwoord was <b>C) Kennisuitwisseling tussen jong en oud mogelijk te maken</b>. Laten we naar de volgende vraag gaan.",
+        "That's right! Time for the final question...": "Dat klopt. Tijd voor de laatste vraag.",
+        "Final question. Spending time in certain areas can contribute to decreasing anxiety, stress and preserve wellbeing? Which areas?": "Laatste vraag. Tijd doorbrengen in bepaalde plekken rond het huis kan bijdragen tot het verlagen van angst, stress en welzijn bevorderen. Welke plekken?",
+        "Ai! Unfortunately that was not correct. The right answer was <b>C) Green</b>. No matter, let's have a look at your final score.": "Helaas, dat was niet goed. Het goede antwoord is <b>C) Groene</b>. Geen probleem, laten we kijken naar de totaalscore.",
+        "Yes indeed! Excellent. Now, let's have a look at your final result...": "Ja inderdaad. Goed gedaan. Laten we nu kijken naar de totaalscore.",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "I don't have anymore more to add to this lesson. When you're finished, it's time to move to the next module!": "Ik heb niets meer toe te voegen aan deze module. Wanneer u klaar bent is het tijd door te gaan naar de volgende!"
+    },
+    "_user": {
+        "Take the quiz.": "Breng me naar de quiz alsjeblieft.",
+        "Goodbye.": "Tot ziens.",
+        "A) Large availability of social services": "A) Veel sociale diensten zijn beschikbaar",
+        "B) Strong ties between people": "B) Mensen hebben sterke banden met elkaar",
+        "C) People live close to eachother": "C) Mensen wonen dicht bij elkaar",
+        "A) Increase stereotypes": "A) Vooroordelen te versterken",
+        "B) Strengthen older people's isolation": "B) Eenzaamheid onder ouderen te versterken",
+        "C) Fostering the exchange of knowledge between older and younger people": "C) Kennisuitwisseling tussen jong en oud mogelijk te maken",
+        "A) Highly frequented": "A) Vaak bezochte",
+        "B) Well-illuminated": "B) Goed verlichte",
+        "C) Green": "C) Groene",
+        "Redo the quiz.": "De quiz opnieuw doen."
+    }
+}

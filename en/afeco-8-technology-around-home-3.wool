@@ -1,0 +1,231 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -308,-287
+---
+So, did you finish the lesson? If so, I have some additional fun facts, as well as a final quiz to test your knowledge. What would you like to start with?
+
+[[Additional facts.|Facts]]
+[[Take the quiz.|Quiz]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 530,54
+---
+
+===
+title: Facts
+tags: 
+speaker: Alfi
+colorID: 0
+position: -33,-477
+---
+Allright! So, did you know that electric cars were actually invented over 100 years ago. They were popular in the early 1900s before petrol cars took over. But now, electric cars are making a big comeback!
+
+[[Anything else?|Facts2]]
+[[Goodbye.|End]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: -31,-105
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: Facts2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 237,-472
+---
+Sure! Did you know that some e-bikes can travel up to 50 miles on a single charge? This means you can go for a long ride without worrying about running out of battery power!
+
+[[Facts3]]
+===
+title: Facts3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 530,-471
+---
+I would love to have an e-bike as well. They also seem very useful if you live in a hilly area.
+
+[[Anything else?|Reflect]]
+[[Goodbye.|End]]
+===
+title: Reflect
+tags: 
+speaker: Alfi
+colorID: 0
+position: 831,-472
+---
+Maybe as a final thing, it's time to take a moment to reflect...
+
+[[Ref2]]
+===
+title: Ref2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1112,-466
+---
+For example, think about the trips you usually take in your car. Could you use an e-bike or public transport for some of these trips?
+
+[[Ref3]]
+===
+title: Ref3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1412,-468
+---
+It might be a great way to explore eco-friendly options while staying active!
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1256,-132
+---
+That's all the extra information I have I'm afraid. Did you already take the quiz?
+
+[[Take the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: -31,-898
+---
+<<set $Q8Correct = 0 >>
+
+Okay, quiz time! First question: Why are smart environments important for you?
+
+[[A) To improve safety, accessibility, and mobility|Q1Correct]]
+[[B) It's more important for young people|Q1Wrong]]
+[[C) To keep older adults connected to services|Q1Correct]]
+[[D) To remove the need for transportation|Q1Wrong]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 300,-1047
+---
+No unfortunately that was wrong, the right options were <b>A) improving safety</b>, and <b>C) keeping connected to services</b>. No matter, let's move to the second question...
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 300,-776
+---
+<<set $Q8Correct = $Q8Correct + 1 >>
+
+That's the correct answer! Great! Let's move to the second question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 613,-909
+---
+Second question: What is green energy?
+
+[[A) Energy from renewable sources like sun and wind|Q2Correct]]
+[[B) Energy that never runs out or harms the planet|Q2Correct]]
+[[C) Energy made from burning fossil fuels|Q2Wrong]]
+[[D) Energy created by natural resources|Q2Correct]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 924,-1060
+---
+Ai, unfortunately that was the only option that was <em>not</em> correct. Oh well, let's go to the third and final question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 932,-761
+---
+<<set $Q8Correct = $Q8Correct + 1 >>
+
+Yes, that's correct. In fact, options <b>A, B and D</b> were all correct. So, let's move to the third and last question for today...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1250,-907
+---
+Okay, last question: Why does eco-friendly transportation matter for you?
+
+[[A) It reduces air pollution and improves health|Q3Correct]]
+[[B) It encourages more walking and cycling|Q3Wrong]]
+[[C) It's mainly for reducing travel costs|Q3Wrong]]  
+[[D) It's only useful in urban areas|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1568,-1066
+---
+No, that's not the answer I was looking for. The right answer is <b>A) It reduces air pollution and improves health</b>. Now, time to look at your final score...
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1578,-777
+---
+<<set $Q8Correct = $Q8Correct + 1 >>
+
+Yes, indeed, reducing air pollution and improving health was the right answer. Now, let's have a look at your final score...
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1922,-894
+---
+<<if $Q8Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q8Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q8Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Show me additional facts.|Facts]]
+[[Goodbye.|End]]
+===

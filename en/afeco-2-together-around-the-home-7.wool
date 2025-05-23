@@ -1,0 +1,70 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -533,-312
+---
+Did you know that many older adults who receive care at home, as well as their caregivers, report feeling happier and more secure when they have access to support services. 
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 904,-310
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: -262,-309
+---
+Caregivers who receive training and regular breaks are more likely to stay healthy and feel confident in their role.
+
+[[Continue2]]
+===
+title: Continue3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 282,-308
+---
+If you or someone you know is providing or receiving care at home, it’s a good idea to explore what local services are available to help. Whether it’s training, financial aid, or volunteer programmes, there are many ways to make caregiving more sustainable and less stressful for everyone involved.
+
+[[Anything else?|Video]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 565,-28
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===
+title: Video
+tags: 
+speaker: Alfi
+colorID: 0
+position: 579,-383
+---
+Yes, I want to invite you to watch <a href="https:\/\/www.youtube.com\/watch?v=XezfOVE9RFM" target="_new">this video</a>, if you want to know more about the topic.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: Continue2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 6,-308
+---
+Programmes that provide support to caregivers make it easier for older adults to stay at home and maintain their independence for longer.
+
+[[Continue3]]
+===

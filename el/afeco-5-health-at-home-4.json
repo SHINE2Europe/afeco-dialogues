@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Hi again! Did you finish the lesson? If so, I have some additional tips for you.": "Γεια σας και πάλι! Τελειώσατε το μάθημα; Αν ναι, έχω μερικές επιπλέον συμβουλές για εσάς.",
+        "Okay, let's go! Did you know that spending just 20 minutes in nature can help reduce stress hormones, improve cognitive function, and boost your mood?": "Εντάξει, πάμε! Γνωρίζατε ότι το να περάσετε μόνο 20 λεπτά στη φύση μπορεί να βοηθήσει στη μείωση των ορμονών του στρες, στη βελτίωση της γνωστικής λειτουργίας και στη διάθεσή σας;",
+        "Even if you can’t go outside, simply having a few houseplants can help bring the calming effects of nature into your home, promoting better mental health.": "Ακόμα κι αν δεν μπορείτε να βγείτε έξω, απλά το να έχετε μερικά φυτά εσωτερικού χώρου μπορεί να σας βοηθήσει να φέρετε τα ηρεμιστικά αποτελέσματα της φύσης στο σπίτι σας, προάγοντας καλύτερη ψυχική υγεία.",
+        "Taking care of your mental health is just as important as looking after your physical health, and your home plays a big part in that!": "Η φροντίδα της ψυχικής σας υγείας είναι εξίσου σημαντική με τη φροντίδα της σωματικής σας υγείας και το σπίτι σας παίζει μεγάλο ρόλο σε αυτό!",
+        "By making a few simple changes, you can create a space that supports your well-being and helps you feel more relaxed and content.": "Κάνοντας μερικές απλές αλλαγές, μπορείτε να δημιουργήσετε έναν χώρο που υποστηρίζει την ευεξία σας και σας βοηθά να αισθάνεστε πιο χαλαροί και ικανοποιημένοι.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Αυτές είναι όλες οι επιπλέον πληροφορίες που φοβάμαι. Ίσως είστε έτοιμοι για το επόμενο μάθημα!",
+        "Okay, take your time. When you've finished, come talk to me again!": "Εντάξει, πάρτε το χρόνο σας. Όταν τελειώσετε, ελάτε να μου μιλήσετε ξανά!"
+    },
+    "_user": {
+        "I finished.": "Τελείωσα.",
+        "Not yet.": "Οχι ακόμη.",
+        "Anything else?": "Κάτι άλλο;",
+        "Goodbye.": "Αντίο."
+    }
+}

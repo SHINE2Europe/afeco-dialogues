@@ -1,0 +1,19 @@
+{
+    "Alfi": {
+        "Hi there! Welcome to the learning module <b>Get Together at Home</b>.": "Hallo! Welkom bij de leermodule <b>Get Together at Home</b>.",
+        "Just press on the green button labeled \"Start Course\" to begin your learning journey.": "Druk op de groene knop met het label “Start Cursus” om uw leerreis te beginnen.",
+        "This will open a new \"tab\" or window in your web browser (like Mozilla Firefox, Google Chrome, or Microsoft Edge).": "Dit opent een nieuw “tabblad” of venster in uw webbrowser (zoals Mozilla Firefox, Google Chrome of Microsoft Edge).",
+        "After you're done learning, you can simply close the window to return here.": "Als u klaar bent met leren, kunt u het venster gewoon sluiten om hier terug te keren.",
+        "Can I help you with anything else?": "Kan ik u nog ergens anders mee helpen?",
+        "To stop the conversation, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Om Alfi te stoppen, kunt u altijd kiezen voor \"Tot ziens\" of gebruik de knop \"X\" bovenaan rechts in de tekstballon. Ook kunt u op mij klikken om het gesprek te stoppen.",
+        "Well, that's a bit rude... but, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Nou, dat is een beetje onbeleefd... maar u kunt altijd “Tot ziens” selecteren, de “X” in de rechterbovenhoek van deze tekstballon gebruiken, of op mij klikken om het gesprek te beëindigen."
+    },
+    "_user": {
+        "How do I begin?": "Hoe kan ik beginnen?",
+        "How can I get rid of you?": "Hoe kom ik van u af?",
+        "Goodbye.": "Tot ziens.",
+        "Okay, thanks.": "Oké, bedankt.",
+        "How can I close the conversation?": "Hoe kan ik het gesprek stoppen?",
+        "How do I begin the course again?": "Hoe begin ik weer met de cursus?"
+    }
+}

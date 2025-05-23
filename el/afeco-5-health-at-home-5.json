@@ -1,0 +1,15 @@
+{
+    "Alfi": {
+        "Hi again! Did you finish the lesson? If so, I have some additional tips for you.": "Γεια σας και πάλι! Τελειώσατε το μάθημα; Αν ναι, έχω μερικές επιπλέον συμβουλές για εσάς.",
+        "Okay, take your time. When you've finished, come talk to me again!": "Εντάξει, πάρτε το χρόνο σας. Όταν τελειώσετε, ελάτε να μου μιλήσετε ξανά!",
+        "Did you know that eating organic food not only benefits your health but also has a significant impact on the environment?": "Γνωρίζατε ότι η κατανάλωση βιολογικών τροφίμων όχι μόνο ωφελεί την υγεία σας αλλά έχει επίσης σημαντικό αντίκτυπο στο περιβάλλον;",
+        "By choosing seasonal and local produce, you’re reducing your carbon footprint and supporting sustainable farming practices. These choices also help protect our planet for future generations.": "Επιλέγοντας εποχιακά και τοπικά προϊόντα, μειώνετε το αποτύπωμα άνθρακα και υποστηρίζετε βιώσιμες γεωργικές πρακτικές. Αυτές οι επιλογές βοηθούν επίσης στην προστασία του πλανήτη μας για τις μελλοντικές γενιές.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμαι πως αυτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "I finished.": "Τελείωσα.",
+        "Not yet.": "Οχι ακόμη.",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

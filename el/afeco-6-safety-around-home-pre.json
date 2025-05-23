@@ -1,0 +1,19 @@
+{
+    "Alfi": {
+        "Hi there! Welcome to the learning module <b>Safety Around the Home</b>.": "Γεια σας! Καλώς ήρθατε στην ενότητα εκμάθησης <b>Ασγάλεια γύρω από το σπίτι</b>.",
+        "Just press on the green button labeled \"Start Course\" to begin your learning journey.": "Απλώς πατήστε το πράσινο κουμπί με την ένδειξη \"Έναρξη σειράς\" για να ξεκινήσετε το μαθησιακό σας ταξίδι.",
+        "This will open a new \"tab\" or window in your web browser (like Mozilla Firefox, Google Chrome, or Microsoft Edge).": "Αυτό θα ανοίξει μια νέα \"καρτέλα\" ή παράθυρο στο πρόγραμμα περιήγησής σας (όπως Mozilla Firefox, Google Chrome ή Microsoft Edge).",
+        "After you're done learning, you can simply close the window to return here.": "Αφού ολοκληρώσετε τη μάθηση, μπορείτε απλώς να κλείσετε το παράθυρο για να επιστρέψετε εδώ.",
+        "Can I help you with anything else?": "Μπορώ να σας βοηθήσω με κάτι άλλο;",
+        "To stop the conversation, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Για να διακόψετε τη συνομιλία, μπορείτε πάντα να επιλέξετε \"Αντίο\", να χρησιμοποιήσετε το \"Χ\" στην επάνω δεξιά γωνία αυτού του μπαλονιού κειμένου ή να κάνετε κλικ σε εμένα για να σταματήσετε τη συνομιλία.",
+        "Well, that's a bit rude... but, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Λοιπόν, αυτό είναι λίγο αγενές... αλλά, μπορείτε πάντα να επιλέξετε \"Αντίο\", να χρησιμοποιήσετε το \"Χ\" στην επάνω δεξιά γωνία αυτού του μπαλονιού κειμένου ή να κάνετε κλικ σε εμένα για να σταματήσετε τη συνομιλία."
+    },
+    "_user": {
+        "How do I begin?": "Πώς να ξεκινήσω;",
+        "How can I get rid of you?": "Πώς μπορώ να σε ξεφορτωθώ;",
+        "Goodbye.": "Αντίο.",
+        "Okay, thanks.": "Εντάξει, ευχαριστώ.",
+        "How can I close the conversation?": "Πως μπορώ να τερματίσω τη συνομιλία;",
+        "How do I begin the course again?": "Πώς να ξεκινήσω ξανά το μάθημα;"
+    }
+}

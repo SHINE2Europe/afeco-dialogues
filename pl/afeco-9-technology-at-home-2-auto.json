@@ -1,0 +1,10 @@
+{
+    "Alfi": {
+        "How many electric devices do you have in your home? And how many are on standby right now?": "Ile urządzeń elektrycznych masz w domu? I ile z nich jest teraz w trybie gotowości?",
+        "I can help you regain control of this energy leakage! Follow this lesson to find out how.": "Mogę pomóc ci odzyskać kontrolę nad tym wyciekiem energii! Skorzystaj z tej lekcji, aby dowiedzieć się jak.",
+        "By the way, if you talk to me again, I may have some additional fun facts about reducing standby energy for you. For now, happy learning!": "A tak przy okazji, jeśli znów się do mnie odezwiesz, mogę mieć dla ciebie kilka dodatkowych ciekawostek na temat zmniejszania zużycia energii w trybie gotowości. Na razie życzę miłej nauki!"
+    },
+    "_user": {
+        "Goodbye.": "Żegnaj."
+    }
+}

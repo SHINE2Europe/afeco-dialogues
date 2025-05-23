@@ -1,0 +1,20 @@
+{
+    "Alfi": {
+        "Hello again! Have you finished the lesson? If so, I have some additional tips for you.": "Γεια σας και πάλι! Τελειώσατε το μάθημα; Αν ναι, έχω μερικές επιπλέον συμβουλές για εσάς.",
+        "Great! So, did you know that certain houseplants not only beautify your home but can also act as natural air purifiers?": "Τέλεια! Λοιπόν, ξέρατε ότι ορισμένα φυτά εσωτερικού χώρου όχι μόνο ομορφαίνουν το σπίτι σας αλλά μπορούν επίσης να λειτουργήσουν ως φυσικοί καθαριστές αέρα;",
+        "Okay, take your time. When you've finished, come talk to me again!": "Εντάξει, πάρτε το χρόνο σας. Όταν τελειώσετε, ελάτε να μου μιλήσετε ξανά!",
+        "Plants like English Ivy, snake plants, and bamboo palms can help reduce indoor air pollution by filtering out harmful substances like formaldehyde and benzene from the air.": "Φυτά όπως ο αγγλικός κισσός, τα αναρριχιτικά φυτά  και οι φοίνικες μπαμπού μπορούν να βοηθήσουν στη μείωση της ρύπανσης του εσωτερικού αέρα φιλτράροντας επιβλαβείς ουσίες όπως η φορμαλδεΰδη και το βενζόλιο από τον αέρα.",
+        "Improving the air quality in your home can make a big difference in how you feel every day. By making simple changes, you can help protect your lung health, boost your energy levels, and even reduce the risk of developing serious health problems.": "Η βελτίωση της ποιότητας του αέρα στο σπίτι σας μπορεί να κάνει μεγάλη διαφορά στο πώς αισθάνεστε κάθε μέρα. Κάνοντας απλές αλλαγές, μπορείτε να προστατεύσετε την υγεία των πνευμόνων σας, να ενισχύσετε τα επίπεδα ενέργειάς σας και ακόμη και να μειώσετε τον κίνδυνο εμφάνισης σοβαρών προβλημάτων υγείας.",
+        "Well, I don't have any more tips, but I do have a video that you may find interesting. It's from the American Lung Association and is titled <a href=\"https:\\/\\/www.youtube.com\\/watch?v=Aabz4MHXgT4\" target=\"_new\">How Indoor Air Quality Impacts Your Lungs</a> (click to view).": "Λοιπόν, δεν έχω άλλες συμβουλές, αλλά έχω ένα βίντεο που μπορεί να σας φανεί ενδιαφέρον. Προέρχεται από την American Lung Association και έχει τίτλο <a href=\"https:\\/\\/www.youtube.com\\/watch?v=Aabz4MHXgT4\" target=\"_new\">How Indoor Air Quality Impacts Your Lungs</a> (κάντε κλικ για να το δείτε).",
+        "I only have this other video from the \"Quartz\" channel, called <a href=\"https:\\/\\/www.youtube.com\\/watch?v=lPNYdSZRSdg\" target=\"_new\">A NASA study explains how to purify air with house plants</a>. Have a look if you're interested!": "Έχω μόνο αυτό το άλλο βίντεο από το κανάλι \"Quartz\", που ονομάζεται <a href=\"https:\\/\\/www.youtube.com\\/watch?v=lPNYdSZRSdg\" target=\"_new\">A NASA study explains how to purify air with house plants</a>. Ρίξτε μια ματιά αν σας ενδιαφέρει!",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Φοβάμαι πως αυτές είναι όλες οι επιπλέον πληροφορίες που έχω. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "I finished.": "Τελείωσα.",
+        "Not yet.": "Οχι ακόμη.",
+        "Goodbye.": "Αντίο.",
+        "Tell me more...": "Πες μου περισσότερα...",
+        "Anything else?": "Κάτι άλλο;",
+        "Anything more?": "Τίποτα περισσότερο;"
+    }
+}

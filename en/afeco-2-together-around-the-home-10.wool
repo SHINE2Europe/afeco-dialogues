@@ -1,0 +1,141 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -172,-288
+---
+Are you finished with this lesson? If so, I have a short quiz for you to test your knowledge. Are you ready?
+
+[[Take the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 88,9
+---
+
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 116,-290
+---
+<<set $Q2Correct = 0>>
+
+Okay, here we go. First question. A welcoming community is characterised by good social cohesion, meaning:
+
+[[A) Large availability of social services|Q1Wrong]]
+[[B) Strong ties between people|Q1Correct]]
+[[C) People live close to eachother|Q1Wrong]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 418,-419
+---
+No, that's not correct. The right answer was <b>B) Strong ties between people</b>. On to the next question!
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 418,-167
+---
+<<set $Q2Correct = $Q2Correct + 1 >>
+Very good! One question correct, two more to go. Ready for the next one?
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 706,-290
+---
+Okay, second question. Intergenerational practices can contribute to:
+
+[[A) Increase stereotypes|Q2Wrong]]
+[[B) Strengthen older people's isolation|Q2Wrong]]
+[[C) Fostering the exchange of knowledge between older and younger people|Q2Correct]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 976,-447
+---
+No, unfortunately that's not correct. The right answer was <b>C) Fostering the exchange of knowledge between older and younger people</b>. Let's quickly move to the last question.
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 984,-168
+---
+<<set $Q2Correct = $Q2Correct + 1 >>
+
+That's right! Time for the final question...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1271,-299
+---
+Final question. Spending time in certain areas can contribute to decreasing anxiety, stress and preserve wellbeing? Which areas?
+
+[[A) Highly frequented|Q3Wrong]]
+[[B) Well-illuminated|Q3Wrong]]
+[[C) Green|Q3Correct]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1594,-464
+---
+Ai! Unfortunately that was not correct. The right answer was <b>C) Green</b>. No matter, let's have a look at your final score.
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1597,-181
+---
+<<set $Q2Correct = $Q2Correct + 1 >>
+
+Yes indeed! Excellent. Now, let's have a look at your final result...
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1923,-313
+---
+<<if $Q2Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q2Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q2Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Goodbye.|End]]
+===

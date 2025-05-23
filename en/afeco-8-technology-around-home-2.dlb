@@ -1,0 +1,80 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -389,-309
+---
+So, did you finish the lesson? If so, I have some additional reflections for you.
+
+[[I finished.|Reflection]]
+[[Not yet.|ComeBackLater]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 298,-136
+---
+
+===
+title: Reflection
+tags: 
+speaker: Alfi
+colorID: 0
+position: -99,-483
+---
+So, let's reflect on what we have learned, and how specifically, how you can benefit...
+
+[[Ref2]]
+===
+title: ComeBackLater
+tags: 
+speaker: Alfi
+colorID: 0
+position: -101,-215
+---
+Okay, no problem. Come back later after you finished the lesson!
+
+[[Goodbye.|End]]
+===
+title: Ref2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 182,-485
+---
+I would like you to think about your energy use. Are there ways you can reduce it by using smart technology or green energy?
+
+[[Ref3]]
+===
+title: Ref3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 481,-485
+---
+For example, could you replace an old appliance with a more energy-efficient one? Or could you explore joining a community solar programme?
+
+[[Ref4]]
+===
+title: Ref4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 783,-486
+---
+Small changes like this can add up to big savings and benefits for both you and the environment!
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 684,-169
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

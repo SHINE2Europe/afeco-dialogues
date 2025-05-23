@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing standby energy?": "Είστε έτοιμοι να μάθετε περισσότερα σχετικά με τη μείωση της ενέργειας αναμονής;",
+        "Well, did you know that \"Standby energy\" is also referred to as \"Vampire Power\", a creepy but fitting name...": "Λοιπόν, ξέρατε ότι η \"Αναμονή\" αναφέρεται και ως \"Ενέργεια Βαμπίρ\", ένα ανατριχιαστικό αλλά ταιριαστό όνομα...",
+        "By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.": "Κόβοντας το ρεύμα σε συσκευές όπως καφετιέρες, φορτιστές τηλεφώνου ή φούρνους μικροκυμάτων όταν δεν χρησιμοποιούνται, μπορείτε να εξοικονομήσετε εκπληκτική ποσότητα ενέργειας με την πάροδο του χρόνου.",
+        "Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!": "Γνωρίζατε ότι τα έξυπνα βύσματα μπορούν να σας βοηθήσουν να ελέγχετε τις συσκευές σας και να εξοικονομείτε ενέργεια ακόμα κι αν ξεχάσετε να απενεργοποιήσετε κάτι πριν φύγετε από το σπίτι σας. Μπορείτε απλά να συνδεθείτε στην εφαρμογή και να την απενεργοποιήσετε εξ αποστάσεως!",
+        "Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?": "Εντάξει, ένα ακόμα... Γνωρίζατε ότι τα φώτα LED, εκτός από πιο ενεργειακά αποδοτικά, παράγουν και λιγότερη θερμότητα από τους παραδοσιακούς λαμπτήρες;",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Αυτές είναι όλες οι επιπλέον πληροφορίες που φοβάμαι. Ίσως είστε έτοιμοι για το επόμενο μάθημα!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Ναι, πες μου περισσότερα...",
+        "Not now, thanks.": "Όχι τώρα, ευχαριστώ.",
+        "Tell me more...": "Πες μου περισσότερα..",
+        "Goodbye.": "Αντίο.",
+        "Anything else?": "Κάτι άλλο;"
+    }
+}

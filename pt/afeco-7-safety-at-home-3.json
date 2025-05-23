@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you've finished this lesson, all that remains is to take the final quiz. Are you ready?": "Se terminou esta lição, só falta fazer o questionário final. Está pronto/a?",
+        "Okay, first question: An age-friendly home is designed to adapt to...?": "Ok, primeira pergunta: Uma casa amiga de todas as idades é projetada para se adaptar a...?",
+        "Yes, that's correct! Well done! Let's go to the second question...": "Sim, está correto! Bem feito! Vamos à segunda pergunta...",
+        "No, that's not correct. The right answer was <b>A) a person's changing needs</b>. Let's move to the second question...": "Não, essa não está certa. A resposta correta era <b>A) às necessidades em mudança de uma pessoa</b>. Vamos à segunda pergunta...",
+        "Allright, second question. A grab bar is mostly useful in the ...?": "Tudo certo, segunda pergunta. Uma barra de apoio é mais útil no/na...?",
+        "No, that's not the answer I was looking for. The right answer was <b>D) bathroom</b>. Let's move to the third and final question...": "Não, essa não era a resposta que eu estava à procura. A resposta correta era <b>D) casa de banho</b>. Vamos à terceira e última pergunta...",
+        "Yes, that's right! One more question left...": "Sim, está certo! Só falta mais uma pergunta...",
+        "Final question for today... One of the leading causes of injury among older people is ...?": "Última pergunta de hoje... Uma das principais causas de lesões entre as pessoas adultas mais velhas é...?",
+        "No that is not the right answer. I was looking for option <b>C) falling</b>. No matter, let's have a look at your final score...": "Não, essa não é a resposta certa. A resposta que procurava era <b>C) quedas</b>. Não faz mal, vamos ver o seu resultado final...",
+        "Yes, you are absolutely right! Now, let's have a look at your final score...": "Sim, tem toda a razão! Agora vamos ver o seu resultado final...",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Pontuação perfeita, 3 de 3, bem feito! Certamente dominou este módulo!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Acertou 2 de 3, muito bem!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Acertou apenas uma pergunta... Talvez devesse rever algum dos materiais.",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Não acertou nenhuma pergunta. Talvez seja boa ideia rever algum material.",
+        "I don't have anything more to add for this lesson.": "Não tenho mais nada a acrescentar a esta lição."
+    },
+    "_user": {
+        "Take the quiz.": "Fazer o questionário.",
+        "Goodbye.": "Adeus.",
+        "A) a person’s changing needs": "A) às necessidades em mudança de uma pessoa",
+        "B) the change of the seasons": "B) às mudanças das estações do ano",
+        "C) the prevention of falls": "C) à prevenção de quedas",
+        "D) the needs of the caregiver": "D) às necessidades do/a cuidador/a",
+        "A) kitchen": "A) cozinha",
+        "B) living room": "B) sala de estar",
+        "C) hallway": "C) corredor",
+        "D) bathroom": "D) casa de banho",
+        "A) poor vision": "A) má visão",
+        "B) accidents in the kitchen": "B) acidentes na cozinha",
+        "C) falling": "C) quedas",
+        "D) working accidents": "D) acidentes de trabalho",
+        "Redo the quiz.": "Refazer o questionário."
+    }
+}

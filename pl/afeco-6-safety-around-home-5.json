@@ -1,0 +1,36 @@
+{
+    "Alfi": {
+        "If you finished this lesson, the only thing left to do is to take the final quiz. Are you ready?": "Jeśli ukończyłeś tę lekcję, pozostało ci tylko wziąć udział w ostatnim quizie. Jesteś gotowy?",
+        "Okay, first question! Safe age friendly communities improve psychological safety. What does this mean?": "Okej, pierwsze pytanie! Bezpieczne społeczności przyjazne osobom starszym poprawiają bezpieczeństwo psychologiczne. Co to oznacza?",
+        "No that's not the answer I was looking for. The right answer was <b>B) Feeling of comfort as part of a community</b>. Let's move to the second question...": "Nie, to nie jest odpowiedź, której szukałem. Prawidłowa odpowiedź brzmiała <b>B) Poczucie komfortu jako część społeczności</b>. Przejdźmy do drugiego pytania…",
+        "Yes, correct! Well done! Let's move to the second question...": "Tak, poprawnie! Dobra robota! Przejdźmy do drugiego pytania…",
+        "Second question: When transportation is safe and easy to use, older adults can...?": "Drugie pytanie: Kiedy transport jest bezpieczny i łatwy w użyciu, osoby starsze mogą...?",
+        "No, that is not correct. The right answer was <b>B) Continue to live independent and active lives</b>. Time for the third and last question...": "Nie, to nie jest poprawne. Prawidłowa odpowiedź brzmiała <b>B) Kontynuuj niezależne i aktywne życie</b>. Czas na trzecie i ostatnie pytanie…",
+        "Yes, that's correct! Very nice! Now let's move to the third and last question...": "Tak, to poprawne! Bardzo ładnie! Przejdźmy teraz do trzeciego i ostatniego pytania…",
+        "Final question: In terms of safety, one of the things an older adult can do while using public transport is...?": "Ostatnie pytanie: Jeśli chodzi o bezpieczeństwo, jedną z rzeczy, które może zrobić osoba starsza, korzystając z transportu publicznego, jest...?",
+        "No, no ... the right answer was <b>C) Plan the trip ahead</b>. No matter! Let's look at your final score...": "Nie, nie... prawidłowa odpowiedź to <b>C) Zaplanuj podróż z wyprzedzeniem</b>. Nieważne! Spójrzmy na Twój wynik końcowy...",
+        "And we can add one point! That was correct! Now let's look at your final score...": "I możemy dodać jeden punkt! To było poprawne! Teraz spójrzmy na Twój wynik końcowy...",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Idealny wynik, 3 na 3, gratulacje! Na pewno opanowałeś ten moduł!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Odpowiedziałeś poprawnie na 2 z 3 pytań, bardzo fajnie!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Tylko jedno pytanie jest poprawne... Może mógłbyś przejrzeć część materiału jeszcze raz?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Nie odpowiedziałeś poprawnie na żadne pytanie. Może mógłbyś przejrzeć część materiału jeszcze raz?",
+        "I don't have anything more to add for this lesson. Time to move to the next one!": "Nie mam nic więcej do dodania w tej lekcji. Czas przejść do następnej!"
+    },
+    "_user": {
+        "Take the quiz.": "Zrób quiz.",
+        "Goodbye.": "Żegnaj.",
+        "A) Availability of psychologists": "A) Dostępność psychologów",
+        "B) Feeling of comfort as part of a community": "B) Poczucie komfortu jako część społeczności",
+        "C) Settling existing psychological disorders": "C) Rozwiązywanie istniejących zaburzeń psychicznych",
+        "D) Feeling safe at common activities": "D) Poczucie bezpieczeństwa podczas typowych zajęć",
+        "A) Save money": "A) Oszczędzać pieniądze",
+        "B) Continue to live independent and active lives": "B) Nadal żyć niezależnie i aktywnie",
+        "C) Abandon driving": "C) Zrezygnować z jazdy samochodem",
+        "D) Be more relaxed": "D) Bądź bardziej zrelaksowany",
+        "A) Wear anti-slip shoes": "A) Noś antypoślizgowe buty",
+        "B) Choose the most direct route": "B) Wybierz najkrótszą trasę",
+        "C) Plan the trip ahead": "C) Zaplanuj podróż z wyprzedzeniem",
+        "D) Always try to sit": "D) Zawsze staraj się usiąść",
+        "Redo the quiz.": "Powtórz quiz."
+    }
+}

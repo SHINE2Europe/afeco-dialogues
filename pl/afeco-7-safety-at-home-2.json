@@ -1,0 +1,15 @@
+{
+    "Alfi": {
+        "Hello again. Did you finished the lesson? If so, I have some additional tips for you...": "Witaj ponownie. Czy skończyłeś lekcję? Jeśli tak, mam dla Ciebie kilka dodatkowych wskazówek...",
+        "Allright so, did you know that the first \"smart stove\" was developed after a survey showed that nearly 50% of older adults had left their stove on at least once by accident.": "No dobrze, czy wiesz, że pierwszy „inteligentny piec” został opracowany po tym, jak badanie wykazało, że prawie 50% osób starszych przynajmniej raz przypadkowo zostawiło swój piec włączony?",
+        "Okay, no problem. Come back later after you finished the lesson!": "Okej, nie ma problemu. Wróć później, gdy skończysz lekcję!",
+        "Now, smart stoves turn off automatically, helping prevent kitchen fires and giving you peace of mind while cooking!": "Teraz inteligentne kuchenki wyłączają się automatycznie, pomagając zapobiegać pożarom w kuchni i zapewniając Ci spokój ducha podczas gotowania!",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Obawiam się, że to wszystkie dodatkowe informacje, jakie posiadam. Być może jesteś gotowy na kolejną lekcję!"
+    },
+    "_user": {
+        "I finished.": "Skończyłem.",
+        "Not yet.": "Jeszcze nie.",
+        "Goodbye.": "Żegnaj.",
+        "Anything else?": "Coś jeszcze?"
+    }
+}

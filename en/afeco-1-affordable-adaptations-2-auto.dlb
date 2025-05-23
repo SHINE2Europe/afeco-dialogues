@@ -1,0 +1,38 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -363,-284
+---
+In this lesson you will learn about age-friendly adaptations and solutions that you can implement in your daily life.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 417,-293
+---
+
+===
+title: ComeTalkToMe
+tags: 
+speaker: Alfi
+colorID: 0
+position: 154,-290
+---
+After completing this lesson, come talk to me again, as I may have some additional tips for you!
+
+[[Okay, thanks.|End]]
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: -96,-282
+---
+We focus on things that are both cheap and easy to implement, so hopefully you can get started right away.
+
+[[ComeTalkToMe]]
+===

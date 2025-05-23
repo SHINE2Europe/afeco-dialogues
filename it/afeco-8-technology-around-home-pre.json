@@ -1,0 +1,19 @@
+{
+    "Alfi": {
+        "Hi there! Welcome to the learning module <b>Technology Around the Home</b>.": "Ciao! Benvenuto/a nel modulo <b>Tecnologia nei dintorni di casa<b>.",
+        "Just press on the green button labeled \"Start Course\" to begin your learning journey.": "Basterà premere il pulsante verde \"Inizia il corso\" per iniziare il percorso formativo.",
+        "This will open a new \"tab\" or window in your web browser (like Mozilla Firefox, Google Chrome, or Microsoft Edge).": "Si aprirà una nuova “scheda” o finestra nel motore di ricerca che utilizzi per navigare in internet (sia esso Mozilla Firefox, Google Chrome o Microsoft Edge).",
+        "After you're done learning, you can simply close the window to return here.": "Una volta terminata la lettura, è sufficiente chiudere la finestra per tornare qui.",
+        "Can I help you with anything else?": "Posso aiutarti con qualcos'altro?",
+        "To stop the conversation, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Per terminare la conversazione, puoi selezionare \"Arrivederci\",  premere la \"X\" nell'angolo in alto a destro di questo riquadro o premere su di me.",
+        "Well, that's a bit rude... but, you can always select \"Goodbye\", use the \"X\" at the top right corner of this text balloon, or click on me to stop the conversation.": "Beh, è un po' maleducato, ma puoi sempre selezionare \"Arrivederci\", premere la \"X\" nell'angolo in alto a destra di questa vignetta o premere sulla mia immagine per terminare la conversazione."
+    },
+    "_user": {
+        "How do I begin?": "Come faccio per iniziare?",
+        "How can I get rid of you?": "Come posso liberarmi di te?",
+        "Goodbye.": "Arrivederci.",
+        "Okay, thanks.": "Ok, grazie.",
+        "How can I close the conversation?": "Come faccio a chiudere la conversazione?",
+        "How do I begin the course again?": "Come posso ricominciare il corso?"
+    }
+}

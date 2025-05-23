@@ -1,0 +1,15 @@
+{
+    "Alfi": {
+        "Hi again! Did you finish the lesson? If so, I have some additional tips for you.": "Ciao di nuovo! Hai finito la lezione? Se si, ho qualche altro suggerimento per te.",
+        "Okay, take your time. When you've finished, come talk to me again!": "Ok, prenditi il tempo che ti serve. Quando hai finito, torna a fare due chiacchiere con me!",
+        "Did you know that eating organic food not only benefits your health but also has a significant impact on the environment?": "Lo sapevi che mangiare alimenti biologici non solo fa bene alla salute, ma ha anche un impatto positivo sull'ambiente?",
+        "By choosing seasonal and local produce, you’re reducing your carbon footprint and supporting sustainable farming practices. These choices also help protect our planet for future generations.": "Scegliendo prodotti di stagione e locali, si riduce l'impronta di carbonio e si incentivano pratiche agricole sostenibili. Queste scelte contribuiscono anche a proteggere il pianeta per le generazioni future.",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Temo che queste siano tutte le informazioni extra che avevo a disposizione. Direi che sei pronto/a per la prossima lezione!"
+    },
+    "_user": {
+        "I finished.": "Ho terminato.",
+        "Not yet.": "Non ancora.",
+        "Goodbye.": "Arrivederci.",
+        "Anything else?": "C'è altro?"
+    }
+}

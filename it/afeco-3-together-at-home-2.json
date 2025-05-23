@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?": "Lo sapevi che l'uso della tecnologia, anche per alcune semplici attività come le chiamate o l'invio di messaggi, può tenere la mente allenata e rendere più facile restare in contatto con gli altri?",
+        "It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?": "Sembra che tu abbia finito con questo modulo. Sei pronto/a per un breve quiz per mettere alla prova la tua conoscenza?",
+        "Okay, here we go! First question: what is the benefit of regular communication?": "Ok, iniziamo! Prima domanda: qual è il beneficio di una comunicazione regolare?",
+        "Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...": "Sfortunatamente, non è corretta. La risposta corretta è <b>A) Sentirsi meno soli</b>. Procediamo con la seconda domanda...",
+        "Indeed, that's correct! One to the second question...": "Corretta! Andiamo alla seconda domanda...",
+        "Okay, second question: \"You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?": "Ok, seconda domanda: \"Puoi rimanere connesso/a alla tua comunità mediante un bollettino o una newsletter.\" Questa affermazione è...",
+        "It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...": "In realtà è vera! A volte è così semplice restare connessi agli altri! Poco male, procediamo con l'ultima domanda...",
+        "Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...": "Infatti è vera! A volte è così semplice restare connessi agli altri! È giunta l'ora dell'ultima domanda...",
+        "Final question: how can community volunteers assist you?": "Domanda finale: in che modo possono assisterti i volontari di comunità?",
+        "Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...": "Sfortunamamente non è corretta. La risposta corretta è  <b>B) Venendoti a trovare regolarmente per fare due chiacchiere</b>. Comunque, diamo un'occhiata al tuo punteggio finale...",
+        "Yes correct! Nice! Let's have a look at your final score, shall we?": "Si, giusto! Ottimo! Diamo un'occhiata al tuo punteggio finale, che dici?",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Punteggio perfetto, 3 su 3, ben fatto! Hai decisamente padroneggiato questo modulo!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Hai risposto correttamente a due domande su tre, molto bene! ",
+        "Only one question correct... Maybe you could go through some of the material again?": "Una sola risposta corretta... Che ne dici di ripassare i materiali?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Purtroppo non hai risposto correttamente a nessuna domanda.  Che ne dici di ripassare i materiali?",
+        "It looks like you are ready for the next module, well done!": "Sembrerebbe che tu sia pronto/a per il prossimo modulo, ottimo lavoro!"
+    },
+    "_user": {
+        "Take the quiz.": "Fai il quiz.",
+        "Goodbye.": "Arrivederci.",
+        "A) Feeling less alone": "A) Sentirsi meno soli",
+        "B) Saving money": "B) Risparmiare denaro",
+        "C) Improving diet": "C) Migliorare la propria dieta",
+        "A) True": "A) Vera",
+        "B) False": "B) Falsa",
+        "A) By providing you a financial help": "A) Tramite un aiuto economico",
+        "B) By visiting you regularly for a chat": "B) Venendoti a trovare regolarmente per fare due chiacchiere",
+        "C) By teaching you complex technology": "C) Insegnadoti ad utilizzare tecnologia complessa",
+        "Redo the quiz.": "Rifai il quiz."
+    }
+}

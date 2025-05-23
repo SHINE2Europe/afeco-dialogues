@@ -1,0 +1,32 @@
+{
+    "Alfi": {
+        "All that is left is to take the final quiz for this module, are you ready?": "Só falta fazer o questionário final deste módulo, está pronto/a?",
+        "Ok, first question: which of the following types of cookware is best avoided to reduce exposure to toxins?": "Ok, primeira pergunta: qual dos seguintes tipos de utensílios de cozinha é melhor evitar para reduzir a exposição a toxinas?",
+        "No unfortunately that's not correct. The right answer was <b>C) Non-stick pans</b>. Let's move to the second question...": "Infelizmente, essa não está correta. A resposta certa era: <b>C) Panelas antiaderentes</b>. Vamos para a segunda pergunta…",
+        "Yes indeed, non-stick pans are best avoided! Time to move to the next question...": "Sim, de fato, as panelas antiaderentes devem ser evitadas! Vamos para a próxima pergunta…",
+        "Second question. Is the following statement true, or false: <i>plants such as spider plants, peace lilies, and aloe vera can help remove toxins from the air</i>.": "Segunda pergunta. A afirmação a seguir é verdadeira ou falsa: <i>plantas como a planta-aranha, lírios-da-paz e aloe vera podem ajudar a remover toxinas do ar</i>.",
+        "No, actually it was true - these plants <i>can</i> reduce toxins from the air! No matter, let's move to the final question...": "Na verdade, é verdadeira - essas plantas <i>podem</i> reduzir toxinas do ar! Não faz mal, vamos para a última pergunta…",
+        "Yes, these plants <i>can indeed</i> remove toxins from the air! Great! Now, time for the final question...": "Sim, essas plantas <i>realmente</i> podem remover toxinas do ar! Ótimo! Agora, hora da última pergunta…",
+        "Allright, final question: which of the following measures is best to take to reduce the risk of falls?": "Tudo bem, pergunta final: qual das seguintes medidas é melhor para reduzir o risco de quedas?",
+        "No, no, that was not the answer I was looking for. The correct answer was <b>A) Remove carpets</b>. Time to look at you final score...": "Não, não, essa não era a resposta que eu estava à procura. A resposta correta era: <b>A) Remover carpetes</b>. Vamos ver a sua pontuação final…",
+        "Yes indeed, well done! Now it's time to look at your final score...": "Sim, isso mesmo, muito bem! Agora é hora de ver sua pontuação final…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Pontuação perfeita, 3 em 3, muito bem! Dominou este módulo!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Acertou 2 das 3 perguntas, muito bom!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Só acertou uma... Talvez devesse rever algum do material?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Não acertou nenhuma das perguntas. Talvez devesse rever algum do material?",
+        "I don't have anything more to add to this. If you finished the lesson, you are ready to move to the next course!": "Não tenho mais nada a acrescentar. Se terminou a lição, está pronto/a para avançar para o próximo curso!"
+    },
+    "_user": {
+        "Let's do the quiz.": "Faça o questionário.",
+        "Goodbye.": "Adeus.",
+        "A) Cast-iron pots": "A) Panelas de ferro fundido",
+        "B) Stainless steel pans": "B) Panelas de aço inoxidável",
+        "C) Non-stick pans": "C) Panelas antiaderentes",
+        "A) True": "A) Verdadeira",
+        "B) False": "B) Falsa",
+        "A) Remove carpets": "A) Remover carpetes",
+        "B) Use slippers": "B) Usar chinelos",
+        "C) Place more carpets": "C) Colocar mais carpetes",
+        "Redo the quiz.": "Refazer o questionário."
+    }
+}

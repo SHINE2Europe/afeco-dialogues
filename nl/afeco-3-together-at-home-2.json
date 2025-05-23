@@ -1,0 +1,33 @@
+{
+    "Alfi": {
+        "Did you know that even using technology for a few simple tasks like making calls or sending messages can keep your mind sharp and make staying connected easier?": "Wist u dat zelfs het gebruik van technologie voor een paar eenvoudige taken, zoals bellen of berichten versturen, uw geest scherp kan houden en het gemakkelijker maakt om verbonden te blijven?",
+        "It looks like you are done with this module. Are you ready for a short quiz to test your knowledge?": "Volgens mij bent u klaar met de module. Bent u nu klaar voor een korte quiz om uw kennis te testen?",
+        "Okay, here we go! First question: what is the benefit of regular communication?": "Hier gaan we. Eerste vraag: wat is het voordeel van regelmatig communiceren?",
+        "Unfortunately, that's not correct. The right answer was <b>A) Feeling less alone</b>. Let's move to the second question...": "Helaas dat is niet goed. Het goede antwoord was <b>A) Minder alleen voelen</b>. Laten we naar de tweede vraag gaan.",
+        "Indeed, that's correct! One to the second question...": "Inderdaad, dat is goed. Nu naar de volgende vraag...",
+        "Okay, second question: \"You can stay involved in the community from home by joining a bulletin or newsletter. Is this statement...?": "Tweede vraag: \"U kunt thuis betrokken blijven bij de gemeenschap door lid te worden van een bulletin of nieuwsbrief.\" Is deze uitspraak...?",
+        "It's true actually! Sometimes it can be that simple to stay involved! No matter, let's move to the last question...": "Het is echt waar! Soms kan het zo eenvoudig zijn om betrokken te blijven! Maakt niet uit, laten we naar de laatste vraag gaan...",
+        "Indeed it is! Sometimes it can be that simple to stay involved! Time for the last question...": "Inderdaad het is waar. Soms kan het zo eenvoudig zin om betrokken te blijven. Nu naar de laatste vraag.",
+        "Final question: how can community volunteers assist you?": "Laatste vraag: hoe kunnen vrijwilligers u helpen?",
+        "Unfortunately that's not right. The correct answer was <b>B) By visiting you regularly for a chat</b>. Anyway, let's have a look at your final score...": "Helaas dat is niet goed. Het goede antwoord was <b>B) Door u geregeld te bezoeken</b>. Laten we naar de tweede vraag gaan.",
+        "Yes correct! Nice! Let's have a look at your final score, shall we?": "Ja inderdaad. Goed gedaan. Laten we nu kijken naar de totaalscore.",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Perfecte score: 3 uit 3 goed. Gefeliciteerd. U hebt de module onder de knie!",
+        "You've got 2 out of the 3 questions correct, very nice!": "U had 2 van de 3 vragen goed. Goed gedaan!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Een vraag goed, twee fouten. Wilt u misschien nog een keer door de module gaan?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Geen vraag goed. Misschien is het raadzaam om nog een keer door het leermateriaal te gaan?",
+        "It looks like you are ready for the next module, well done!": "Het lijkt erop dat u klaar bent voor de volgende module, goed gedaan!"
+    },
+    "_user": {
+        "Take the quiz.": "Breng me naar de quiz alsjeblieft.",
+        "Goodbye.": "Tot ziens.",
+        "A) Feeling less alone": "A) Minder alleen voelen.",
+        "B) Saving money": "B) Geld besparen.",
+        "C) Improving diet": "C) Voedsel verbeteren.",
+        "A) True": "A) Waar",
+        "B) False": "B) Onjuist",
+        "A) By providing you a financial help": "A) Door financiële hulp te bieden.",
+        "B) By visiting you regularly for a chat": "B) Door u geregeld te bezoeken.",
+        "C) By teaching you complex technology": "C) Door u meer te leren over technologie.",
+        "Redo the quiz.": "De quiz opnieuw doen."
+    }
+}

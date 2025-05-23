@@ -1,0 +1,17 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about reducing standby energy?": "Sei pronto/a a scoprire altre strategie per ridurre l'energia in standby?",
+        "Well, did you know that \"Standby energy\" is also referred to as \"Vampire Power\", a creepy but fitting name...": "Ebbene, lo sapevi che l'energia in standby viene anche definita energia vampiro, un nome inquietante ma decisamente azzeccato...",
+        "By cutting power to appliances like coffee makers, phone chargers, or microwaves when they are not in use, you can save a surprising amount of energy over time.": "Interrompendo l'alimentazione di apparecchi come macchine del caffè, caricatori di telefoni o forni a microonde quando non sono in uso, si può risparmiare una quantità sorprendente di energia nel tempo. ",
+        "Did you know that smart plugs can help you control your appliances and save energy even if you forget to turn something off before leaving your home. You can simply log into the app and switch it off remotely!": "Lo sapevi che le spine intelligenti possono aiutarti a controllare gli elettrodomestici e a risparmiare energia anche se dimentichi di spegnere qualcosa prima di uscire di casa? Basta accedere alla app e spegnere l'apparecchio da remoto!",
+        "Okay, one more... Did you know that LED lights, besides being more energy efficient, also produce less heat than traditional bulbs?": "Ok, eccotene un'altra...Lo sapevi che le luci LED, oltre ad essere più efficienti energicamente, producono anche minore calore delle lampadine tradizionali?",
+        "That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!": "Temo che queste siano tutte le informazioni extra che avevo a disposizione. Direi che sei pronto/a per la prossima lezione!"
+    },
+    "_user": {
+        "Yes, tell me more...": "Si, dimmi di più...",
+        "Not now, thanks.": "Non ora, grazie.",
+        "Tell me more...": "Dimmi di più...",
+        "Goodbye.": "Arrivederci.",
+        "Anything else?": "C'è altro?"
+    }
+}

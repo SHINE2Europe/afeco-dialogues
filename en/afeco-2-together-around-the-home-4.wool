@@ -1,0 +1,49 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -197,-295
+---
+Did you know that communities that support intergenerational programmes often see improvements in mental health and well-being.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 857,-292
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 81,-295
+---
+Older adults feel more engaged and less isolated, while younger people learn valuable lessons from their elders.
+
+[[Continue2]]
+===
+title: Continue2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 341,-291
+---
+In some cases, these interactions have even been shown to reduce loneliness and improve the overall health of older adults.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 597,-289
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

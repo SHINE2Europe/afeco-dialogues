@@ -1,0 +1,43 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about generating your own electricty, or are you ready to take the final quiz?": "Είστε έτοιμοι να μάθετε περισσότερα σχετικά με την παραγωγή της δικής σας ηλεκτρικής ενέργειας ή είστε έτοιμοι να κάνετε το τελευταίο κουίζ;",
+        "That's all the extra information I have I'm afraid. It looks like you're ready for the next course!": "Αυτές είναι όλες οι επιπλέον πληροφορίες που φοβάμαι. Φαίνεται ότι είστε έτοιμοι για το επόμενο μάθημα!",
+        "Did you know that even if you can’t install enough solar panels to power your entire home, you can still benefit from \"partial solar power\". This means that solar panels meet part of your energy needs, reducing what you use from the grid.": "Γνωρίζατε ότι ακόμα κι αν δεν μπορείτε να εγκαταστήσετε αρκετά ηλιακά πάνελ για να τροφοδοτήσετε ολόκληρο το σπίτι σας, μπορείτε να επωφεληθείτε από τη \"μερική ηλιακή ενέργεια\". Αυτό σημαίνει ότι οι ηλιακοί συλλέκτες καλύπτουν μέρος των ενεργειακών σας αναγκών, μειώνοντας τη χρήση από το δίκτυο.",
+        "Did you know that solar panels can still work on cloudy days? They do not need direct sunlight to produce electricity, just daylight! So, even in less sunny areas, solar power can still help you save energy and money.": "Γνωρίζατε ότι τα ηλιακά πάνελ μπορούν ακόμα να λειτουργήσουν τις συννεφιασμένες μέρες; Δεν χρειάζονται άμεσο ηλιακό φως για να παράγουν ηλεκτρισμό, μόνο φως της ημέρας! Έτσι, ακόμη και σε λιγότερο ηλιόλουστες περιοχές, η ηλιακή ενέργεια μπορεί να σας βοηθήσει να εξοικονομήσετε ενέργεια και χρήματα.",
+        "Did you know that small wind turbines can be used to supplement your home's electricity, reducing your reliance on the grid, much like solar panels. For rural properties with a lot of wind, wind turbines could cover most of your electricity needs.": "Γνωρίζατε ότι οι μικρές ανεμογεννήτριες μπορούν να χρησιμοποιηθούν για να συμπληρώσουν την ηλεκτρική ενέργεια του σπιτιού σας, μειώνοντας την εξάρτησή σας από το δίκτυο, όπως τα ηλιακά πάνελ. Για αγροτικά ακίνητα με πολύ άνεμο, οι ανεμογεννήτριες θα μπορούσαν να καλύψουν το μεγαλύτερο μέρος των αναγκών σας σε ηλεκτρική ενέργεια.",
+        "Did you know that micro-hydro systems are great for homes located in areas with year-round flowing water. Even if you only generate a portion of your electricity this way, it can be an effective way to reduce your energy bills.": "Γνωρίζατε ότι τα μικρο-υδροηλεκτρικά συστήματα είναι εξαιρετικά για σπίτια που βρίσκονται σε περιοχές με νερό που ρέει όλο το χρόνο. Ακόμα κι αν παράγετε μόνο ένα μέρος της ηλεκτρικής σας ενέργειας με αυτόν τον τρόπο, μπορεί να είναι ένας αποτελεσματικός τρόπος για να μειώσετε τους λογαριασμούς ενέργειας.",
+        "Okay, first question: Why should you use power strips?": "Εντάξει, πρώτη ερώτηση: Γιατί πρέπει να χρησιμοποιείτε πολύπριζα;",
+        "Unfortunately that's not right. The correct answer was <b>A) To plug in multiple devices safely.</b>. Anyway, let's quickly move to the second question...": "Δυστυχώς αυτό δεν είναι σωστό. Η σωστή απάντηση ήταν <b>Α) Να συνδέετε με ασφάλεια πολλές συσκευές.</b>. Τέλος πάντων, ας περάσουμε γρήγορα στη δεύτερη ερώτηση…",
+        "Yes, well done! That was correct. Now, let's go the second question...": "Ναι, πολύ καλά! Σωστά. Τώρα ας πάμε στην δεύτερη ερώτηση...",
+        "Second question: Why should you use radiator foil?": "Δεύτερη ερώτηση: Γιατί πρέπει να χρησιμοποιούμε πομπούς θερμότητας;",
+        "Oh no, unfortunately that's not correct. The answer was <b>C) To reflect heat back into the room</b>. Time for the third and last question...": "Ω, όχι, δυστυχώς δεν είναι σωστό. Η απάντηση ήταν <b>Γ) Να αντανακλά τη θερμότητα πίσω στο δωμάτιο</b>. Ώρα για την τρίτη και τελευταία ερώτηση…",
+        "Yes, indeed, very well. Time for the third and last question...": "Ναι, όντως, πολύ καλά. Ώρα για την τρίτη και τελευταία ερώτηση…",
+        "Final question for today: What is a Bokashi Bin used for?": "Τελευταία ερώτηση για σήμερα: Σε τι χρησιμοποιείται ο κάδος Bokashi ;",
+        "That's right, great! Now, are you ready to see your final score? Let's go...": "Σωστά, υπέροχο! Τώρα, είστε έτοιμοι να δείτε το τελικό σκορ σας; Πάμε…",
+        "That's not right unfortunately. The correct answer was <b>B) To compost food waste indoors</b>. Let's quickly take a look at your final score...": "Δεν είναι σωστό δυστυχώς. Η σωστή απάντηση ήταν <b>Β) Κομποστοποίηση υπολειμμάτων τροφίμων σε εσωτερικούς χώρους</b>. Ας ρίξουμε γρήγορα μια ματιά στην τελική βαθμολογία σας…",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Τέλεια βαθμολογία, 3 στα 3, μπράβο! Έχετε σίγουρα κατακτήσει αυτήν την ενότητα!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Έχετε 2 από τις 3 ερωτήσεις σωστές, πολύ ωραία!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Μόνο μια ερώτηση είναι σωστή... Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Δεν απαντήσατε καμία από τις ερωτήσεις σωστά. Ίσως θα μπορούσατε να ξαναδείτε κάποιο από το υλικό;",
+        "Are you ready to learn some more about generating your own electricty?": "Είστε έτοιμοι να μάθετε περισσότερα για την παραγωγή της δικής σας ηλεκτρικής ενέργειας;"
+    },
+    "_user": {
+        "I want to learn more.": "Θα ήθελα να μάθω περισσότερα",
+        "Start the quiz.": "Ξεκινήστε το κουίζ.",
+        "Not now, thanks.": "Όχι τώρα, ευχαριστώ.",
+        "Goodbye.": "Αντίο.",
+        "Tell me more.": "Πες μου περισσότερα.",
+        "Anything else?": "Κάτι άλλο;",
+        "A) To plug in multiple devices safely.": "Α) Για να συνδέετε πολλές συσκευές με ασφάλεια.",
+        "B) To increase the power supply in your home.": "Β) Για να αυξήσετε την παροχή ρεύματος στο σπίτι σας.",
+        "C) To use more electricity at once.": "Γ) Να χρησιμοποιείτε περισσότερο ρεύμα ταυτόχρονα.",
+        "A) To cool down the radiator faster.": "Α) Για να κρυώνει πιο γρήγορα ο πομπός.",
+        "B) To make the radiator shiny.": "Β) Για να κάνουμε τον πομπό να γυαλίζει.",
+        "C) To reflect heat back into the room.": "Γ) Για να αντανακλά τη θερμότητα πίσω στο δωμάτιο.",
+        "A) To store dry food like rice and pasta.": "Α) Για αποθήκευση ξηρών τροφών όπως ρύζι και ζυμαρικά.",
+        "B) To compost food waste indoors.": "Β) Για κομποστοποίηση υπολειμμάτων τροφίμων σε εσωτερικούς χώρους.",
+        "C) To get rid of plastic waste.": "Γ) Για να απαλλαγούμε από τα πλαστικά απορρίμματα.",
+        "Redo the quiz.": "Κάντε ξανά το κουίζ.",
+        "Yes, tell me more...": "Ναι, πες μου περισσότερα..."
+    }
+}

@@ -1,0 +1,43 @@
+{
+    "Alfi": {
+        "Are you ready to learn some more about generating your own electricty, or are you ready to take the final quiz?": "Czy jesteś gotowy dowiedzieć się czegoś więcej o wytwarzaniu własnej energii elektrycznej, czy też jesteś gotowy wziąć udział w quizie końcowym?",
+        "That's all the extra information I have I'm afraid. It looks like you're ready for the next course!": "Obawiam się, że to wszystkie dodatkowe informacje, jakie mam. Wygląda na to, że jesteś gotowy na kolejny kurs!",
+        "Did you know that even if you can’t install enough solar panels to power your entire home, you can still benefit from \"partial solar power\". This means that solar panels meet part of your energy needs, reducing what you use from the grid.": "Czy wiesz, że nawet jeśli nie możesz zainstalować wystarczającej liczby paneli słonecznych, aby zasilić cały dom, nadal możesz skorzystać z „częściowej energii słonecznej”. Oznacza to, że panele słoneczne zaspokajają część Twoich potrzeb energetycznych, zmniejszając to, co zużywasz z sieci.",
+        "Did you know that solar panels can still work on cloudy days? They do not need direct sunlight to produce electricity, just daylight! So, even in less sunny areas, solar power can still help you save energy and money.": "Czy wiesz, że panele słoneczne mogą nadal działać w pochmurne dni? Nie potrzebują bezpośredniego światła słonecznego, aby wytwarzać energię elektryczną, tylko światło dzienne! Tak więc nawet w mniej nasłonecznionych obszarach energia słoneczna może nadal pomóc Ci zaoszczędzić energię i pieniądze.",
+        "Did you know that small wind turbines can be used to supplement your home's electricity, reducing your reliance on the grid, much like solar panels. For rural properties with a lot of wind, wind turbines could cover most of your electricity needs.": "Czy wiesz, że małe turbiny wiatrowe mogą być używane do uzupełniania energii elektrycznej w Twoim domu, zmniejszając Twoje uzależnienie od sieci, podobnie jak panele słoneczne. W przypadku nieruchomości wiejskich, gdzie występują silne wiatry, turbiny wiatrowe mogą pokryć większość zapotrzebowania na energię elektryczną.",
+        "Did you know that micro-hydro systems are great for homes located in areas with year-round flowing water. Even if you only generate a portion of your electricity this way, it can be an effective way to reduce your energy bills.": "Czy wiesz, że mikro-hydrosystemy są świetne dla domów zlokalizowanych na obszarach z całorocznym przepływem wody. Nawet jeśli w ten sposób generujesz tylko część energii elektrycznej, może to być skuteczny sposób na obniżenie rachunków za energię.",
+        "Okay, first question: Why should you use power strips?": "Okej, pierwsze pytanie: Dlaczego warto używać listew zasilających?",
+        "Unfortunately that's not right. The correct answer was <b>A) To plug in multiple devices safely.</b>. Anyway, let's quickly move to the second question...": "Niestety, to nie jest prawidłowa odpowiedź. Prawidłowa odpowiedź brzmiała <b>A) Aby bezpiecznie podłączyć wiele urządzeń.</b>. Tak czy inaczej, przejdźmy szybko do drugiego pytania...",
+        "Yes, well done! That was correct. Now, let's go the second question...": "Tak, dobrze zrobione! To było poprawne. Teraz przejdźmy do drugiego pytania...",
+        "Second question: Why should you use radiator foil?": "Drugie pytanie: Dlaczego warto używać folii kaloryferowej?",
+        "Oh no, unfortunately that's not correct. The answer was <b>C) To reflect heat back into the room</b>. Time for the third and last question...": "O nie, niestety to nie jest poprawne. Odpowiedź brzmiała <b>C) Aby odbić ciepło z powrotem do pomieszczenia</b>. Czas na trzecie i ostatnie pytanie...",
+        "Yes, indeed, very well. Time for the third and last question...": "Tak, rzeczywiście, bardzo dobrze. Czas na trzecie i ostatnie pytanie...",
+        "Final question for today: What is a Bokashi Bin used for?": "Ostatnie pytanie na dziś: Do czego służy pojemnik Bokashi?",
+        "That's right, great! Now, are you ready to see your final score? Let's go...": "Tak, świetnie! A teraz, czy jesteś gotowy, aby zobaczyć swój wynik końcowy? Zaczynajmy...",
+        "That's not right unfortunately. The correct answer was <b>B) To compost food waste indoors</b>. Let's quickly take a look at your final score...": "Niestety to nie jest poprawne. Prawidłowa odpowiedź brzmiała <b>B) Do kompostowania odpadów spożywczych w pomieszczeniach</b>. Rzućmy szybko okiem na Twój wynik końcowy...",
+        "Perfect score, 3 out of 3, well done! You have certainly mastered this module!": "Idealny wynik, 3 na 3, brawo! Na pewno opanowałeś ten moduł!",
+        "You've got 2 out of the 3 questions correct, very nice!": "Masz 2 z 3 pytań poprawne, bardzo fajnie!",
+        "Only one question correct... Maybe you could go through some of the material again?": "Tylko jedno pytanie poprawne... Może mógłbyś przejrzeć część materiału jeszcze raz?",
+        "You didn't get any of the questions right. Maybe you could go through some of the material again?": "Nie odpowiedziałeś poprawnie na żadne pytanie. Może mógłbyś przejrzeć część materiału jeszcze raz?",
+        "Are you ready to learn some more about generating your own electricty?": "Czy jesteś gotowy, aby dowiedzieć się więcej o wytwarzaniu własnej energii elektrycznej?"
+    },
+    "_user": {
+        "I want to learn more.": "Chcę dowiedzieć się więcej.",
+        "Start the quiz.": "Rozpocznij quiz.",
+        "Not now, thanks.": "Nie teraz, dziękuję.",
+        "Goodbye.": "Do widzenia.",
+        "Tell me more.": "Powiedz mi więcej.",
+        "Anything else?": "Coś jeszcze?",
+        "A) To plug in multiple devices safely.": "A) Aby bezpiecznie podłączyć wiele urządzeń.",
+        "B) To increase the power supply in your home.": "B) Aby zwiększyć zasilanie w domu.",
+        "C) To use more electricity at once.": "C) Aby zużywać więcej prądu na raz.",
+        "A) To cool down the radiator faster.": "A) Aby szybciej schłodzić kaloryfer.",
+        "B) To make the radiator shiny.": "B) Aby nadać kaloryferowi połysk.",
+        "C) To reflect heat back into the room.": "C) Aby odbijać ciepło z powrotem do pomieszczenia.",
+        "A) To store dry food like rice and pasta.": "A) Do przechowywania suchej żywności, takiej jak ryż i makaron.",
+        "B) To compost food waste indoors.": "B) Do kompostowania odpadów spożywczych w pomieszczeniach.",
+        "C) To get rid of plastic waste.": "C) Do pozbywania się plastikowych odpadów.",
+        "Redo the quiz.": "Powtórz quiz.",
+        "Yes, tell me more...": "Tak, powiedz mi więcej..."
+    }
+}

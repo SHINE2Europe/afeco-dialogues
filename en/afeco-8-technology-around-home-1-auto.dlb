@@ -1,0 +1,81 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: 266,-354
+---
+Welcome to the module "Technology Around the Home". In this module, we will learn more about smart city technology and how cities are becoming more age-friendly. 
+
+[[How does it work?|How]]
+[[Okay, what's next?|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 90,-21
+---
+
+===
+title: How
+tags: 
+speaker: Alfi
+colorID: 0
+position: 635,-442
+---
+On the left you see the different parts that make up this course.
+
+[[How2]]
+===
+title: AnythingElse
+tags: 
+speaker: Alfi
+colorID: 0
+position: 658,-149
+---
+After finishing this lesson, come talk to me again, and I will share some additional tips with you! For now, happy learning!
+
+[[Goodbye.|End]]
+===
+title: How2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 899,-440
+---
+In the main screen, you can see the content of the lessons, including text, images and sometimes videos.
+
+[[How3]]
+===
+title: How5
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1655,-440
+---
+Once you've finished all three lessons of this course, you can close the window, or click the "Back to Course" button to return to the course overview.
+
+[[Okay, thanks.|AnythingElse]]
+[[Goodbye.|End]]
+===
+title: How4
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1403,-437
+---
+Then, click on the "Next" button to go to the next lesson in the course.
+
+[[How5]]
+===
+title: How3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1158,-442
+---
+Go through all the material and click on "Mark as Complete" at the bottom of the page when you're done.
+
+[[How4]]
+===

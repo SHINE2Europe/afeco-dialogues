@@ -1,0 +1,39 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -199,-286
+---
+Did you know that communities with strong social capital are healthier and happier. People who feel connected to others are less likely to suffer from mental health conditions like depression or anxiety.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 347,-292
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 80,-286
+---
+Studies also show that being part of a close-knit community can even help people live longer.
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 82,-26
+---
+That's all the extra information I have I'm afraid. It looks like you're ready for the next course!
+
+[[Goodbye.|End]]
+===

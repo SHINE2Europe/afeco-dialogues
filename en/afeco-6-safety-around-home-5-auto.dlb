@@ -1,0 +1,38 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -219,-288
+---
+Time for the last lesson in this course!
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 639,-293
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 68,-296
+---
+We are sure that you have experience and knowledge about having a pleasant and safe time in public spaces. Continue reading and make sure to watch the video at the end of this lesson to learn more.
+
+[[FinalQuiz]]
+===
+title: FinalQuiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 365,-294
+---
+After you're done, come talk to me again for a final quiz to test your knowledge!
+
+[[Okay, thanks.|End]]
+===

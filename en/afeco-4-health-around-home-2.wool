@@ -1,0 +1,71 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -179,-294
+---
+Studies show that integrated care can improve patient satisfaction and reduce hospital visits. It ensures that patients, especially older adults, receive care that is continuous, personalised, and more efficient.
+
+[[Continue]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 382,-573
+---
+
+===
+title: Continue
+tags: 
+speaker: Alfi
+colorID: 0
+position: 112,-292
+---
+Integrated care has been proven to help reduce hospital readmissions and improve quality of life for people managing long-term health conditions.
+
+[[Tell me more...|ProTips]]
+[[Goodbye.|End]]
+===
+title: ProTips
+tags: 
+speaker: Alfi
+colorID: 0
+position: 377,-291
+---
+I don't have more to say, but I do have two videos that I would recommend you to watch...
+
+[[ProTips2]]
+===
+title: ProTips2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 663,-293
+---
+The first one is from the World Health Organisation and is called <a href="https:\/\/www.youtube.com\/watch?v=q2SdjlFQn3I" target="_new">Integrated Care for older people</a>.
+
+[[Tell me more...|ProTips3]]
+[[Goodbye.|End]]
+===
+title: ProTips3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 963,-296
+---
+The second video is also from the World Health Organisation and is called <a href=https:\/\/www.youtube.com\/watch?v=pj-AvTOdk2Q" target="_new">What is people-centred care</a>?
+
+[[Anything else?|NoMore]]
+[[Goodbye.|End]]
+===
+title: NoMore
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1261,-296
+---
+That's all the extra information I have I'm afraid. Perhaps you're ready for the next lesson!
+
+[[Goodbye.|End]]
+===

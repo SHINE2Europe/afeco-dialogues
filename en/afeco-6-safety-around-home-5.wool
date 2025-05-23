@@ -1,0 +1,145 @@
+title: Start
+tags: 
+speaker: Alfi
+colorID: 0
+position: -184,-441
+---
+If you finished this lesson, the only thing left to do is to take the final quiz. Are you ready?
+
+[[Take the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
+title: End
+tags: 
+speaker: Alfi
+colorID: 0
+position: 97,15
+---
+
+===
+title: Quiz
+tags: 
+speaker: Alfi
+colorID: 0
+position: 158,-437
+---
+<<set $Q6Correct = 0 >>
+
+Okay, first question! Safe age friendly communities improve psychological safety. What does this mean?
+
+[[A) Availability of psychologists|Q1Wrong]]
+[[B) Feeling of comfort as part of a community|Q1Correct]]
+[[C) Settling existing psychological disorders|Q1Wrong]]
+[[D) Feeling safe at common activities|Q1Wrong]]
+===
+title: Q1Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 469,-582
+---
+No that's not the answer I was looking for. The right answer was <b>B) Feeling of comfort as part of a community</b>. Let's move to the second question...
+
+[[Q2]]
+===
+title: Q1Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 468,-322
+---
+<<set $Q6Correct = $Q6Correct + 1 >>
+
+Yes, correct! Well done! Let's move to the second question...
+
+[[Q2]]
+===
+title: Q2
+tags: 
+speaker: Alfi
+colorID: 0
+position: 781,-433
+---
+Second question: When transportation is safe and easy to use, older adults can...?
+
+[[A) Save money|Q2Wrong]]
+[[B) Continue to live independent and active lives|Q2Correct]]
+[[C) Abandon driving|Q2Wrong]]
+[[D) Be more relaxed|Q2Wrong]]
+===
+title: Q2Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1065,-577
+---
+No, that is not correct. The right answer was <b>B) Continue to live independent and active lives</b>. Time for the third and last question...
+
+[[Q3]]
+===
+title: Q2Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1071,-295
+---
+<<set $Q6Correct = $Q6Correct + 1 >>
+
+Yes, that's correct! Very nice! Now let's move to the third and last question...
+
+[[Q3]]
+===
+title: Q3
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1398,-421
+---
+Final question: In terms of safety, one of the things an older adult can do while using public transport is...?
+
+[[A) Wear anti-slip shoes|Q3Wrong]]
+[[B) Choose the most direct route|Q3Wrong]]
+[[C) Plan the trip ahead|Q3Correct]]
+[[D) Always try to sit|Q3Wrong]]
+===
+title: Q3Wrong
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1705,-570
+---
+No, no ... the right answer was <b>C) Plan the trip ahead</b>. No matter! Let's look at your final score...
+
+[[Score]]
+===
+title: Q3Correct
+tags: 
+speaker: Alfi
+colorID: 0
+position: 1707,-302
+---
+<<set $Q6Correct = $Q6Correct + 1 >>
+
+And we can add one point! That was correct! Now let's look at your final score...
+
+[[Score]]
+===
+title: Score
+tags: 
+speaker: Alfi
+colorID: 0
+position: 2022,-436
+---
+<<if $Q6Correct == 3>>
+Perfect score, 3 out of 3, well done! You have certainly mastered this module!
+<<elseif $Q6Correct == 2>>
+You've got 2 out of the 3 questions correct, very nice!
+<<elseif $Q6Correct == 1>>
+Only one question correct... Maybe you could go through some of the material again?
+<<else>>
+You didn't get any of the questions right. Maybe you could go through some of the material again?
+<<endif>>
+
+[[Redo the quiz.|Quiz]]
+[[Goodbye.|End]]
+===
